@@ -1,0 +1,28 @@
+rng:
+  seed: 977805
+simul:
+  mode: dimer
+  landscape: /n/home10/msak/multicat/batch_inputs_jobs/50_jun_grid/50_jun_grid_16_pos0p032_neg0p32/ls/landscape_pos0p032_neg0p32_ls_49
+  N: 50
+  neg_strength: 100
+  num_reps: 100
+pooler: oneshot
+oneshot:
+  pool_size:
+  - 4
+  num_meet:
+  - 4
+  num_redun:
+  - 2
+  frac_top:
+  - 1.0
+  final_size:
+  - 2
+  target_metric:
+  - output
+  tiebreak_round:
+  - true
+  num_top:
+  - 55
+  score_mode:
+  - avg

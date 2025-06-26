@@ -1,0 +1,46 @@
+---
+## yml file with parameters for landscape generation and simulations of the pooling-deconvolution (PD) workflow
+rng:
+  seed: 5773
+# this seed is used for random shuffling before the initial pooling, and for landscape generation
+
+# pick between Scenarios 1 and 2 and delete the other blocks.
+
+# Scenario 1: Landscape generation. Set statistical parameters for rates/cooperativity 
+simul:
+  N: 50 # number of catalysts
+  mode: "dimer" # "dimer" mode is default
+  neg_strength: 100 # strength of binding of inhibitory pairs relative to positive coop pairs
+  mean_rate: 10 # mean rate constant across cats (arbitrary units, between 0 and 100 is reasonable)
+  sd_rate: 10 # standard deviation of rate across cats
+  rate_outlier_prob: 0.02 # probability of rate outliers, which are generated from a distribution centered about mean_rate * 2
+  p_pos: 0.001 # number of positively cooperative pairs / total number of pairs
+  range_pos: 5 # largest possible cooperativity exhibited by a pair. Here, every positively cooperative pair will have a multiplier randomly chosen between 2, 3, 4, and 5.
+  p_neg: 0.1 # number of negatively cooperative pairs / total number of pairs
+  range_neg: 0.3 # largest negative cooperativity exhibited by a pair. Here, every negatively cooperative pair will have a multiplier randomly chosen between 0 and 0.3.
+  num_landscapes: 50 # number of landscapes to generate; 1 if omitted
+  batch: True # if false, generates only one landscape
+
+# Scenario 2: Run simulated PD, with landscapes already generated
+
+# Block 1: read a landscape when running simulated PD
+simul:
+  mode: 'dimer' # 
+  N: 50 # number of catalysts
+  mode: "dimer" # "dimer" mode is default
+  neg_strength: 100 # strength of binding of inhibitory pairs relative to positive coop pairs
+  landscape: 'dir_to_landscapes/<landscape_name>' # path to landscape files. We expect two files: <landscape_name>_cat_rate.csv and <landscape_name>_coop_mat.csv
+  num_reps: 100 # number of repetitions to simulate each combination of PD parameters. Each rep will start from a random pooling initialization.
+
+# Block 2: list parameter values to be tested. PD will be simulated with all combinations of the parameter values ("grid search") 
+pooler: 'oneshot'
+oneshot: # important: specify all values as python-formatted lists, even single values
+  pool_size: [4, 5, 6, 7, 8, 9, 10] # size of each pool in the covering, k
+  num_meet: [2, 3] # number of cats that are guaranteed to meet at least once, t
+  num_redun: [1, 2, 3] # number of repeated coverings to construct, r
+  final_size: [2] # size of hypothesized cooperative set
+  target_metric: ['coop', 'output'] # metric to use to score each pair pre-verification: cooperativity or raw yield
+  tiebreak_round: [True]
+  num_top: [15] # number of top pools to consider for tie-break round, defaults to number of top ties if the given number is smaller
+  rxn_time: [20] # reaction time (arbitrary, e.g. hours) Used to deconvolute real yield data but all reactions are assumed to run for the same time.
+  score_mode: ['sum', 'avg', 'max'] # if the baseline output (non-cooperative) is the sum of individual outputs, use 'add'. If average, use 'avg'. if it is the maximum of individual outputs, use 'max'

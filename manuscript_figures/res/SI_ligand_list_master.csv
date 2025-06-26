@@ -1,0 +1,159 @@
+label,idx,CAS number,preferred name,smiles,INCHI string,dent,arrived,MW,mg in 600 uL,mg in 800 uL,mg in 800 uL (200 mol %)
+1,1,255837-19-5,"Di-tert-butyl(2'-methyl[1,1'-biphenyl]-2-yl)phosphane",CC1=CC=CC=C1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C,"InChI=1S/C21H29P/c1-16-12-8-9-13-17(16)18-14-10-11-15-19(18)22(20(2,3)4)21(5,6)7/h8-15H,1-7H3
+",mono,1,312.44,5.6,7.5,6.2
+2,2,29949-85-7,Tris(3-chlorophenyl)phosphine,ClC1=CC=CC(=C1)P(C1=CC(Cl)=CC=C1)C1=CC(Cl)=CC=C1,"InChI=1S/C18H12Cl3P/c19-13-4-1-7-16(10-13)22(17-8-2-5-14(20)11-17)18-9-3-6-15(21)12-18/h1-12H
+",mono,1,365.63,6.6,8.8,7.3
+3,3,13360-92-4,Phenoxydiphenylphosphine,O(P(C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1,"InChI=1S/C18H15OP/c1-4-10-16(11-5-1)19-20(17-12-6-2-7-13-17)18-14-8-3-9-15-18/h1-15H
+",mono,1,278.29,5,6.7,5.6
+6,4,122-52-1,Triethyl phosphite,CCOP(OCC)OCC,"InChI=1S/C6H15O3P/c1-4-7-10(8-5-2)9-6-3/h4-6H2,1-3H3
+",mono,1,166.16,3,4,3.3
+7,5,255835-82-6,"Dicyclohexyl(2'-methoxy[1,1'-biphenyl]-2-yl)phosphane",COC1=CC=CC=C1C1=CC=CC=C1P(C1CCCCC1)C1CCCCC1,"InChI=1S/C25H33OP/c1-26-24-18-10-8-16-22(24)23-17-9-11-19-25(23)27(20-12-4-2-5-13-20)21-14-6-3-7-15-21/h8-11,16-21H,2-7,12-15H2,1H3
+",mono,1,380.51,6.8,9.1,7.6
+9,6,2741-38-0,Allyldiphenylphosphine,C=CCP(C1=CC=CC=C1)C1=CC=CC=C1,"InChI=1S/C15H15P/c1-2-13-16(14-9-5-3-6-10-14)15-11-7-4-8-12-15/h2-12H,1,13H2
+",mono,1,226.26,4.1,5.4,4.5
+10,7,140-08-9,Tris(2-chloroethyl) phosphite,ClCCOP(OCCCl)OCCCl,"InChI=1S/C6H12Cl3O3P/c7-1-4-10-13(11-5-2-8)12-6-3-9/h1-6H2
+",mono,1,269.49,4.9,6.5,5.4
+11,8,1031-93-2,Diphenyl-p-tolylphosphine,CC1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1,"InChI=1S/C19H17P/c1-16-12-14-19(15-13-16)20(17-8-4-2-5-9-17)18-10-6-3-7-11-18/h2-15H,1H3
+",mono,1,276.32,5,6.6,5.5
+12,9,110231-30-6,Diphenyl-1-pyrenylphosphine,C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=C2C=CC3=CC=CC4=C3C2=C(C=C4)C=C1,"InChI=1S/C28H19P/c1-3-10-23(11-4-1)29(24-12-5-2-6-13-24)26-19-17-22-15-14-20-8-7-9-21-16-18-25(26)28(22)27(20)21/h1-19H
+",mono,1,386.43,7,9.3,7.7
+13,10,53597-69-6,"1,3,5-Triaza-7-phosphaadamantane",C1N2CN3CN1CP(C2)C3,"InChI=1S/C6H12N3P/c1-7-2-9-3-8(1)5-10(4-7)6-9/h1-6H2
+",mono,1,157.16,2.8,3.8,3.1
+16,11,255836-67-0,"[1,1'-Binaphthalen]-2-yldi-tert-butylphosphine",CC(C)(C)P(C1=C(C2=CC=CC=C2C=C1)C1=CC=CC2=CC=CC=C12)C(C)(C)C,"InChI=1S/C28H31P/c1-27(2,3)29(28(4,5)6)25-19-18-21-13-8-10-16-23(21)26(25)24-17-11-14-20-12-7-9-15-22(20)24/h7-19H,1-6H3
+",mono,1,398.53,7.2,9.6,8
+18,12,824-11-3,"2,6,7-Trioxa-1-phosphabicyclo[2.2.2]octane, 4-ethyl-",CCC12COP(OC1)OC2,"InChI=1S/C6H11O3P/c1-2-6-3-7-10(8-4-6)9-5-6/h2-5H2,1H3
+",mono,1,162.12,2.9,3.9,3.2
+19,13,4706-17-6,Tris(hydroxypropyl)phosphine,OCCCP(CCCO)CCCO,"InChI=1S/C9H21O3P/c10-4-1-7-13(8-2-5-11)9-3-6-12/h10-12H,1-9H2
+",mono,1,245.39,4.4,5.9,4.9
+20,14,1246888-90-3,rac-BI-DIME,COc1cccc(OC)c1-c1cccc2c1P(C(C)(C)C)CO2,,mono,1,330.36,5.9,7.9,6.6
+21,15,102691-36-1,"Phosphorodiamidous acid, tetrakis(1-methylethyl)-, 2-cyanoethyl ester",CC(C)N(C(C)C)P(OCCC#N)N(C(C)C)C(C)C,"InChI=1S/C15H32N3OP/c1-12(2)17(13(3)4)20(19-11-9-10-16)18(14(5)6)15(7)8/h12-15H,9,11H2,1-8H3
+",mono,1,301.42,5.4,7.2,6
+22,16,886059-84-3,"Di-tert-butyl(2,2-dimethylpropyl)phosphanium tetrafluoroborate",F[B-](F)(F)F.CC(C)(C)C[PH+](C(C)(C)C)C(C)(C)C,"InChI=1S/C13H29P.BF4/c1-11(2,3)10-14(12(4,5)6)13(7,8)9;2-1(3,4)5/h10H2,1-9H3;/q;-1/p+1
+",mono,1,216.35,3.9,5.2,4.3
+23,17,14540-52-4,Trineopentyl phosphite,CC(C)(C)COP(OCC(C)(C)C)OCC(C)(C)C,"InChI=1S/C15H33O3P/c1-13(2,3)10-16-19(17-11-14(4,5)6)18-12-15(7,8)9/h10-12H2,1-9H3
+",mono,1,292.4,5.3,7,5.8
+24,18, 3057-08-7,"	5,5-dimethyl-2-phenoxy-1,3,2-dioxaphosphorinane",CC1(C)COP(Oc2ccccc2)OC1,,mono,1,226.21,4.1,5.4,4.5
+25,19,5518-52-5,Tri(2-furyl)phosphine,O1C=CC=C1P(C1=CC=CO1)C1=CC=CO1,"InChI=1S/C12H9O3P/c1-4-10(13-7-1)16(11-5-2-8-14-11)12-6-3-9-15-12/h1-9H
+",mono,1,232.18,4.2,5.6,4.6
+26,20,1215113-73-7,Dicyclohexylethylphosphine tetrafluoroborate,CCP(C1CCCCC1)C1CCCCC1,,mono,1,226.34,4.1,5.4,4.5
+28,21,164654-49-3,"Dibenzyl N,N-dimethylphosphoramidite",CN(C)P(OCC1=CC=CC=C1)OCC1=CC=CC=C1,"InChI=1S/C16H20NO2P/c1-17(2)20(18-13-15-9-5-3-6-10-15)19-14-16-11-7-4-8-12-16/h3-12H,13-14H2,1-2H3
+",mono,1,289.31,5.2,6.9,5.8
+29,22,1242759-01-8,PPh?-Andole-Phos,COc1ccccc1-c1c(P(c2ccccc2)c2ccccc2)c2ccccc2n1C,,mono,1,421.48,7.6,10.1,8.4
+31,23,1237588-13-4,"1-[2-[Bis(tricyclo[3.3.1.13,7]dec-1-yl)phosphino]phenyl]piperidine",C1CCN(CC1)C1=CC=CC=C1P(C12CC3CC(CC(C3)C1)C2)C12CC3CC(CC(C3)C1)C2,"InChI=1S/C31H44NP/c1-4-8-32(9-5-1)28-6-2-3-7-29(28)33(30-16-22-10-23(17-30)12-24(11-22)18-30)31-19-25-13-26(20-31)15-27(14-25)21-31/h2-3,6-7,22-27H,1,4-5,8-21H2
+",mono,1,461.67,8.3,11.1,9.2
+32,24,4731-53-7,"Phosphine, trioctyl-",CCCCCCCCP(CCCCCCCC)CCCCCCCC,"InChI=1S/C24H51P/c1-4-7-10-13-16-19-22-25(23-20-17-14-11-8-5-2)24-21-18-15-12-9-6-3/h4-24H2,1-3H3
+",mono,1,370.65,6.7,8.9,7.4
+34,25,819867-23-7,"Diphenyl(2',4',6'-triisopropyl-[1,1'-biphenyl]-2-yl)phosphine",CC(C)c1cc(C(C)C)c(-c2ccccc2P(c2ccccc2)c2ccccc2)c(C(C)C)c1,,mono,1,464.63,8.4,11.2,9.3
+36,26,1092695-14-1,"5-[(3aR,8aR)-Tetrahydro-2,2-dimethyl-4,4,8,8-tetraphenyl-1,3-dioxolo[4,5-e][1,3,2]dioxaphosphepin-6-yl]-5H-dibenz[b,f]azepine",CC1(C)O[C@@H]2[C@@H](O1)C(c1ccccc1)(c1ccccc1)OP(N1c3ccccc3C=Cc3ccccc31)OC2(c1ccccc1)c1ccccc1,,mono,1,687.78,12.4,16.5,13.8
+37,27,1805783-60-1,AlPhos,CCCCc1c(F)c(F)c(-c2c(C(C)C)cc(C(C)C)c(-c3cccc(OC)c3P(C34CC5CC(CC(C5)C3)C4)C34CC5CC(CC(C5)C3)C4)c2C(C)C)c(F)c1F,,mono,1,815.07,14.7,19.6,16.3
+38,28,223655-16-1,"Iron(2+) cyclopenta-2,4-dien-1-ide 1-(di-tert-butylphosphanyl)cyclopenta-2,4-dien-1-ide (1/1/1)",[Fe++].[CH-]1C=CC=C1.CC(C)(C)P([C-]1C=CC=C1)C(C)(C)C,"InChI=1S/C13H22P.C5H5.Fe/c1-12(2,3)14(13(4,5)6)11-9-7-8-10-11;1-2-4-5-3-1;/h7-10H,1-6H3;1-5H;/q2*-1;+2
+",mono,1,330.23,5.9,7.9,6.6
+39,29,894086-00-1,BippyPhos,CC(C)(C)P(C1=CC=NN1C1=C(N(N=C1C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1)C(C)(C)C,"InChI=1S/C32H35N4P/c1-31(2,3)37(32(4,5)6)27-22-23-33-36(27)30-28(24-16-10-7-11-17-24)34-35(26-20-14-9-15-21-26)29(30)25-18-12-8-13-19-25/h7-23H,1-6H3
+",mono,1,506.63,9.1,12.2,10.1
+40,30,564483-18-7,X-Phos,CC(C)C1=CC(C(C)C)=C(C(=C1)C(C)C)C1=CC=CC=C1P(C1CCCCC1)C1CCCCC1,"InChI=1S/C33H49P/c1-23(2)26-21-30(24(3)4)33(31(22-26)25(5)6)29-19-13-14-20-32(29)34(27-15-9-7-10-16-27)28-17-11-8-12-18-28/h13-14,19-25,27-28H,7-12,15-18H2,1-6H3
+",mono,1,476.73,8.6,11.4,9.5
+41,31,1816254-91-7,Di-tert-butyl(butyl)phosphonium tetrafluoroborate,CCCCP(C(C)(C)C)C(C)(C)C,,mono,1,202.32,3.6,4.9,4
+42,32,116-17-6,Tripropan-2-yl phosphite,CC(C)OP(OC(C)C)OC(C)C,"InChI=1S/C9H21O3P/c1-7(2)10-13(11-8(3)4)12-9(5)6/h7-9H,1-6H3
+",mono,1,208.24,3.7,5,4.2
+43,33,1070663-78-3,Brettphos,COC1=C(P(C2CCCCC2)C2CCCCC2)C(=C(OC)C=C1)C1=C(C=C(C=C1C(C)C)C(C)C)C(C)C,"InChI=1S/C35H53O2P/c1-23(2)26-21-29(24(3)4)33(30(22-26)25(5)6)34-31(36-7)19-20-32(37-8)35(34)38(27-15-11-9-12-16-27)28-17-13-10-14-18-28/h19-25,27-28H,9-18H2,1-8H3
+",mono,1,536.78,9.7,12.9,10.7
+44,34,819-19-2,"Phosphine, bis(1,1-dimethylethyl)-",CC(C)(C)PC(C)(C)C,"InChI=1S/C8H19P/c1-7(2,3)9-8(4,5)6/h9H,1-6H3
+",mono,1,146.21,2.6,3.5,2.9
+46,35,1021176-69-1,"5-(Dicyclohexylphosphanyl)-1',3',5'-triphenyl-1'H-1,4'-bipyrazole",C1CCC(CC1)P(C1CCCCC1)C1=CC=NN1C1=C(N(N=C1C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1,"InChI=1S/C36H39N4P/c1-6-16-28(17-7-1)34-36(35(29-18-8-2-9-19-29)39(38-34)30-20-10-3-11-21-30)40-33(26-27-37-40)41(31-22-12-4-13-23-31)32-24-14-5-15-25-32/h1-3,6-11,16-21,26-27,31-32H,4-5,12-15,22-25H2
+",mono,1,558.71,10.1,13.4,11.2
+47,36,740815-36-5,2-(Dicyclohexylphosphanyl)-1-phenyl-1H-indole,C1CCC(CC1)P(C1CCCCC1)C1=CC2=CC=CC=C2N1C1=CC=CC=C1,"InChI=1S/C26H32NP/c1-4-13-22(14-5-1)27-25-19-11-10-12-21(25)20-26(27)28(23-15-6-2-7-16-23)24-17-8-3-9-18-24/h1,4-5,10-14,19-20,23-24H,2-3,6-9,15-18H2
+",mono,1,389.52,7,9.3,7.8
+49,37,15573-38-3,Tris(trimethylsilyl)phosphine,C[Si](C)(C)P([Si](C)(C)C)[Si](C)(C)C,"InChI=1S/C9H27PSi3/c1-11(2,3)10(12(4,5)6)13(7,8)9/h1-9H3
+",mono,1,250.55,4.5,6,5
+51,38,932710-63-9,"(4-(N,N-Dimethylamino)phenyl)di-tert-butyl phosphine",CN(C)C1=CC=C(C=C1)P(C(C)(C)C)C(C)(C)C,"InChI=1S/C16H28NP/c1-15(2,3)18(16(4,5)6)14-11-9-13(10-12-14)17(7)8/h9-12H,1-8H3
+",mono,1,265.38,4.8,6.4,5.3
+52,39,657408-07-6,"2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl",COC1=CC=CC(OC)=C1C1=CC=CC=C1P(C1CCCCC1)C1CCCCC1,"InChI=1S/C26H35O2P/c1-27-23-17-11-18-24(28-2)26(23)22-16-9-10-19-25(22)29(20-12-5-3-6-13-20)21-14-7-4-8-15-21/h9-11,16-21H,3-8,12-15H2,1-2H3
+",mono,1,410.54,7.4,9.9,8.2
+54,40,16523-89-0,Triallyl phosphine,C=CCP(CC=C)CC=C,"InChI=1S/C9H15P/c1-4-7-10(8-5-2)9-6-3/h4-6H,1-3,7-9H2
+",mono,1,154.19,2.8,3.7,3.1
+55,41,1359986-21-2,"Bis(1,1-dimethylethyl)[4-methoxy-3,5,6-trimethyl-2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine",COC1=C(C)C(P(C(C)(C)C)C(C)(C)C)=C(C(C)=C1C)C1=C(C=C(C=C1C(C)C)C(C)C)C(C)C,"InChI=1S/C33H53OP/c1-19(2)25-17-26(20(3)4)29(27(18-25)21(5)6)28-22(7)23(8)30(34-16)24(9)31(28)35(32(10,11)12)33(13,14)15/h17-21H,1-16H3
+",mono,1,496.76,8.9,11.9,9.9
+56,42,4020-99-9,Methoxydiphenylphosphine,COP(C1=CC=CC=C1)C1=CC=CC=C1,"InChI=1S/C13H13OP/c1-14-15(12-8-4-2-5-9-12)13-10-6-3-7-11-13/h2-11H,1H3
+",mono,1,216.22,3.9,5.2,4.3
+57,43,5525-95-1,Diphenyl(pentafluorophenyl)phosphine,FC1=C(F)C(F)=C(P(C2=CC=CC=C2)C2=CC=CC=C2)C(F)=C1F,"InChI=1S/C18H10F5P/c19-13-14(20)16(22)18(17(23)15(13)21)24(11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H
+",mono,1,352.24,6.3,8.5,7
+58,44,443965-14-8,(R)-SIPHOS,CN(C)P1Oc2cccc3c2C2(CC3)CCc3cccc(c32)O1,,mono,1,325.35,5.9,7.8,6.5
+59,45,102-85-2,Tributyl phosphite,CCCCOP(OCCCC)OCCCC,"InChI=1S/C12H27O3P/c1-4-7-10-13-16(14-11-8-5-2)15-12-9-6-3/h4-12H2,1-3H3
+",mono,1,250.32,4.5,6,5
+60,46,1067883-58-2,2-[2-(Dicyclohexylphosphanyl)phenyl]-1-methyl-1H-indole,CN1C(=CC2=CC=CC=C12)C1=CC=CC=C1P(C1CCCCC1)C1CCCCC1,"InChI=1S/C27H34NP/c1-28-25-18-10-8-12-21(25)20-26(28)24-17-9-11-19-27(24)29(22-13-4-2-5-14-22)23-15-6-3-7-16-23/h8-12,17-20,22-23H,2-7,13-16H2,1H3
+",mono,1,403.55,7.3,9.7,8.1
+62,47,620-42-8,"Tri-p-tolyl Phosphite",CC1=CC=C(OP(OC2=CC=C(C)C=C2)OC2=CC=C(C)C=C2)C=C1,"InChI=1S/C21H21O3P/c1-16-4-10-19(11-5-16)22-25(23-20-12-6-17(2)7-13-20)24-21-14-8-18(3)9-15-21/h4-15H,1-3H3
+",mono,1,352.37,6.3,8.5,7
+63,48,1053658-91-5,2-(Di-tert-butylphosphanyl)-1-(2-methoxyphenyl)-1H-pyrrole,COC1=CC=CC=C1N1C=CC=C1P(C(C)(C)C)C(C)(C)C,"InChI=1S/C19H28NOP/c1-18(2,3)22(19(4,5)6)17-13-10-14-20(17)15-11-8-9-12-16(15)21-7/h8-14H,1-7H3
+",mono,1,317.41,5.7,7.6,6.3
+64,49,13406-29-6,Tris[4-(trifluoromethyl)phenyl]phosphane,FC(F)(F)C1=CC=C(C=C1)P(C1=CC=C(C=C1)C(F)(F)F)C1=CC=C(C=C1)C(F)(F)F,"InChI=1S/C21H12F9P/c22-19(23,24)13-1-7-16(8-2-13)31(17-9-3-14(4-10-17)20(25,26)27)18-11-5-15(6-12-18)21(28,29)30/h1-12H
+",mono,1,466.28,8.4,11.2,9.3
+68,50,76858-94-1,"(Ethane-1,2-diyl)bis[bis(pentafluorophenyl)phosphane]",FC1=C(F)C(F)=C(P(CCP(C2=C(F)C(F)=C(F)C(F)=C2F)C2=C(F)C(F)=C(F)C(F)=C2F)C2=C(F)C(F)=C(F)C(F)=C2F)C(F)=C1F,"InChI=1S/C26H4F20P2/c27-3-7(31)15(39)23(16(40)8(3)32)47(24-17(41)9(33)4(28)10(34)18(24)42)1-2-48(25-19(43)11(35)5(29)12(36)20(25)44)26-21(45)13(37)6(30)14(38)22(26)46/h1-2H2
+",di,1,758.23,6.8,9.1,7.6
+72,51,2301856-53-9,"(2R,2'R,3R,3'R)-Ph-BIBOP",CC(C)(C)P1c2c(cccc2-c2ccccc2)O[C@@H]1[C@H]1Oc2cccc(-c3ccccc3)c2P1C(C)(C)C,,di,1,538.61,4.8,6.5,5.4
+73,52,135139-00-3,(S)-DM-BINAP,Cc1cc(C)cc(P(c2cc(C)cc(C)c2)c2ccc3ccccc3c2-c2c(P(c3cc(C)cc(C)c3)c3cc(C)cc(C)c3)ccc3ccccc23)c1,,di,1,734.9,6.6,8.8,7.3
+74,53,174467-31-3,Mandyphos SL-M001-1,CN(C)[C@H](c1ccccc1)[c-]1cccc1P(c1ccccc1)c1ccccc1.CN(C)[C@H](c1ccccc1)c1cc[cH-]c1P(c1ccccc1)c1ccccc1.[Fe+2],,di,1,820.78,7.4,9.8,8.2
+75,54,1002345-50-7,dicyclohexyl(3-dicyclohexylphosphanylpropyl)phosphane;ditetrafluoroborate,F[B-](F)(F)F.F[B-](F)(F)F.C(CP(C1CCCCC1)C1CCCCC1)CP(C1CCCCC1)C1CCCCC1,"InChI=1S/C27H50P2.2BF4/c1-5-14-24(15-6-1)28(25-16-7-2-8-17-25)22-13-23-29(26-18-9-3-10-19-26)27-20-11-4-12-21-27;2*2-1(3,4)5/h24-27H,1-23H2;;/q;2*-1
+",di,1,436.65,3.9,5.2,4.4
+76,55,64896-28-2,"(S,S)-Chiraphos",C[C@@H]([C@H](C)P(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)C1=CC=CC=C1,"InChI=1S/C28H28P2/c1-23(29(25-15-7-3-8-16-25)26-17-9-4-10-18-26)24(2)30(27-19-11-5-12-20-27)28-21-13-6-14-22-28/h3-24H,1-2H3/t23-,24-/m0/s1
+",di,1,426.48,3.8,5.1,4.3
+78,56,1365531-76-5,"(S)-2,2'-Bis(diphenylphosphino)-4,4',6,6'-tetramethoxybiphenyl",COc1cc(OC)c(-c2c(OC)cc(OC)cc2P(c2ccccc2)c2ccccc2)c(P(c2ccccc2)c2ccccc2)c1,,di,1,642.67,5.8,7.7,6.4
+80,57,150971-37-2,"(S)-(6,6'-Dimethoxy-[1,1'-biphenyl]-2,2'-diyl)bis(bis(3,5-bis(trimethylsilyl)phenyl)phosphine)",COc1cccc(P(c2cc([Si](C)(C)C)cc([Si](C)(C)C)c2)c2cc([Si](C)(C)C)cc([Si](C)(C)C)c2)c1-c1c(OC)cccc1P(c1cc([Si](C)(C)C)cc([Si](C)(C)C)c1)c1cc([Si](C)(C)C)cc([Si](C)(C)C)c1,,di,1,1160.08,10.4,13.9,11.6
+81,58,155830-69-6,Josiphos SL-J002-1,[Fe++].[CH-]1C=CC=C1.C[C@H]([C-]1C=CC=C1P(C1=CC=CC=C1)C1=CC=CC=C1)P(C(C)(C)C)C(C)(C)C,"InChI=1S/C27H35P2.C5H5.Fe/c1-21(29(26(2,3)4)27(5,6)7)24-19-14-20-25(24)28(22-15-10-8-11-16-22)23-17-12-9-13-18-23;1-2-4-5-3-1;/h8-21H,1-7H3;1-5H;/q2*-1;+2/t21-;;/m1../s1
+",di,1,542.47,4.9,6.5,5.4
+83,59,70236-68-9,[CF3]8-DPPF,C1=C(C=C(C=C1C(F)(F)F)P([C-]2[C-]=[C-][C-]=[C-]2)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C(F)(F)F.C1=C(C=C(C=C1C(F)(F)F)P([C-]2[C-]=[C-][C-]=[C-]2)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C(F)(F)F.[Fe],,di,1,1090.3,9.8,13.1,10.9
+84,60,74311-56-1,(R)-(S)-BPPFA,CC(C)P([c-]1cccc1)C(C)C.CC(C)P(c1ccc[c-]1[C@H](C)N(C)CCN1CCCCC1)C(C)C.[Fe+2],,di,1,586.61,5.3,7,5.9
+85,61,12150-46-8,"1,1'-Bis(diphenylphosphino)ferrocene",[Fe].[CH]1[CH][CH][C]([CH]1)P(c2ccccc2)c3ccccc3.[CH]4[CH][CH][C]([CH]4)P(c5ccccc5)c6ccccc6,,di,1,554.39,5,6.7,5.5
+87,62,1810068-31-5,"Bis(3,5-bis(trifluoromethyl)phenyl)(2?,6?-bis(isopropoxy)-3,6-dimethoxybiphenyl-2-yl)phosphine",FC(F)(F)C1=CC(=CC(=C1)C(F)(F)F)P(C=2C=C(C=C(C2)C(F)(F)F)C(F)(F)F)C=3C(OC)=CC=C(OC)C3C=4C(OC(C)C)=CC=CC4OC(C)C,,di,1,786.59,7.1,9.4,7.9
+88,63,528854-26-4,"(12S)-13-tert-butyl-12-[(12S)-13-tert-butyl-13-phosphapentacyclo[13.8.0.02,11.03,8.018,23]tricosa-1(15),2(11),3,5,7,9,16,18,20,22-decaen-12-yl]-13-phosphapentacyclo[13.8.0.02,11.03,8.018,23]tricosa-1(15),2(11),3,5,7,9,16,18,20,22-decaene",CC(C)(C)P1CC2=C(C3=CC=CC=C3C=C2)C2=C(C=CC3=CC=CC=C23)[C@H]1[C@H]1P(CC2=C(C3=CC=CC=C3C=C2)C2=C1C=CC1=CC=CC=C21)C(C)(C)C,"InChI=1S/C52H48P2/c1-51(2,3)53-31-37-25-23-33-15-7-11-19-39(33)45(37)47-41-21-13-9-17-35(41)27-29-43(47)49(53)50-44-30-28-36-18-10-14-22-42(36)48(44)46-38(32-54(50)52(4,5)6)26-24-34-16-8-12-20-40(34)46/h7-30,49-50H,31-32H2,1-6H3/t49-,50-,53?,54?/m0/s1
+",di,1,734.9,6.6,8.8,7.3
+91,64,752210-44-9,"(11bS,11?bS)-4,4?-[(1R)-[1,1?-Binaphthalene]-2,2?-diylbis(oxy)]bis[dinaphtho[2,1-d:1?,2?-f][1,3,2]dioxaphosphepin]",O1C=2C=CC=3C=CC=CC3C2C4=C(OP1OC=5C=CC=6C=CC=CC6C5C7=C(OP8OC=9C=CC=%10C=CC=CC%10C9C%11=C(O8)C=CC=%12C=CC=CC%12%11)C=CC=%13C=CC=CC%137)C=CC=%14C=CC=CC%144,,di,1,914.89,8.2,11,9.1
+92,65,74974-14-4,N-diphenylphosphanyl-1-[2-(diphenylphosphanylamino)naphthalen-1-yl]naphthalen-2-amine,N(P(C1=CC=CC=C1)C1=CC=CC=C1)C1=C(C2=CC=CC=C2C=C1)C1=C(NP(C2=CC=CC=C2)C2=CC=CC=C2)C=CC2=CC=CC=C12,"InChI=1S/C44H34N2P2/c1-5-19-35(20-6-1)47(36-21-7-2-8-22-36)45-41-31-29-33-17-13-15-27-39(33)43(41)44-40-28-16-14-18-34(40)30-32-42(44)46-48(37-23-9-3-10-24-37)38-25-11-4-12-26-38/h1-32,45-46H
+",di,1,652.72,5.9,7.8,6.5
+93,66,136735-95-0,"Methyl-duphos, (S,S)-",C[C@H]1CC[C@H](C)P1C1=CC=CC=C1P1[C@@H](C)CC[C@@H]1C,"InChI=1S/C18H28P2/c1-13-9-10-14(2)19(13)17-7-5-6-8-18(17)20-15(3)11-12-16(20)4/h5-8,13-16H,9-12H2,1-4H3/t13-,14-,15-,16-/m0/s1
+",di,1,306.37,2.8,3.7,3.1
+94,67,528521-86-0,(S)-SDP,C=1C=CC(=CC1)P(C=2C=CC=CC2)C3=CC=CC4=C3C5(C=6C(=CC=CC6CC5)P(C=7C=CC=CC7)C=8C=CC=CC8)CC4,,di,1,588.67,5.3,7.1,5.9
+95,68,145214-59-1,"(S)-2-Furyl-MeOBIPHEP, SL-A108-2",COc1cccc(P(c2ccco2)c2ccco2)c1-c1c(OC)cccc1P(c1ccco1)c1ccco1,,di,1,542.46,4.9,6.5,5.4
+96,69,55739-58-7,"(R,R)-Dipamp",COC1=CC=CC=C1[P@](CC[P@](C1=CC=CC=C1)C1=CC=CC=C1OC)C1=CC=CC=C1,"InChI=1/C28H28O2P2/c1-29-25-17-9-11-19-27(25)31(23-13-5-3-6-14-23)21-22-32(24-15-7-4-8-16-24)28-20-12-10-18-26(28)30-2/h3-20H,21-22H2,1-2H3/t31-,32-/s2
+",di,1,458.48,4.1,5.5,4.6
+89,70,161265-03-8,Xantphos,CC1(C)C2=C(OC3=C1C=CC=C3P(C1=CC=CC=C1)C1=CC=CC=C1)C(=CC=C2)P(C1=CC=CC=C1)C1=CC=CC=C1,"InChI=1S/C39H32OP2/c1-39(2)33-25-15-27-35(41(29-17-7-3-8-18-29)30-19-9-4-10-20-30)37(33)40-38-34(39)26-16-28-36(38)42(31-21-11-5-12-22-31)32-23-13-6-14-24-32/h3-28H,1-2H3
+",di,1,578.63,5.2,6.9,5.8
+70,71,166330-10-5,DPEPhos,O(C1=CC=CC=C1P(C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1P(C1=CC=CC=C1)C1=CC=CC=C1,"InChI=1S/C36H28OP2/c1-5-17-29(18-6-1)38(30-19-7-2-8-20-30)35-27-15-13-25-33(35)37-34-26-14-16-28-36(34)39(31-21-9-3-10-22-31)32-23-11-4-12-24-32/h1-28H
+",di,1,538.57,4.8,6.5,5.4
+90,72,850444-36-9,Taniaphos SL-T001-2,CN(C)[C@@H](c1ccccc1P(c1ccccc1)c1ccccc1)c1c[cH-]cc1P(c1ccccc1)c1ccccc1.[Fe+2].c1cc[cH-]c1,,di,1,687.59,6.2,8.3,6.9
+4,73,1202865-62-0,Dicyclohexyl[4-(propan-2-yl)phenyl]phosphane,CC(C)C1=CC=C(C=C1)P(C1CCCCC1)C1CCCCC1,"InChI=1S/C21H33P/c1-17(2)18-13-15-21(16-14-18)22(19-9-5-3-6-10-19)20-11-7-4-8-12-20/h13-17,19-20H,3-12H2,1-2H3
+",mono,0,316.47,5.7,7.6,6.3
+5,74,1025096-61-0,4-Butyl-N-(diphenylphosphino)benzenesulfonamide,CCCCc1ccc(S(=O)(=O)NP(c2ccccc2)c2ccccc2)cc1,,mono,0,397.48,7.2,9.5,7.9
+8,75,1355318-22-7,VincePhos,COc1ccc(OC)c(P2C(C)(C)CC3(CC2(C)C)OCCO3)c1-c1c(C(C)C)cc(C(C)C)cc1C(C)C,,mono,0,554.75,10,13.3,11.1
+14,76,5848-64-6,"Tri(N,N-di-n-propylamino)phosphine",CCCN(CCC)P(N(CCC)CCC)N(CCC)CCC,"InChI=1S/C18H42N3P/c1-7-13-19(14-8-2)22(20(15-9-3)16-10-4)21(17-11-5)18-12-6/h7-18H2,1-6H3
+",mono,0,331.53,6,8,6.6
+15,77,1053660-75-5,DIETHYL 4-NITROBENZYLPHOSPHONITE,CCOP(Cc1ccc([N+](=O)[O-])cc1)OCC,,mono,0,257.23,4.6,6.2,5.1
+17,78,1808959-38-7,3-(Bis(3-(trifluoromethyl)phenyl)phosphaneyl)benzoic acid,O=C(O)c1cccc(P(c2cccc(C(F)(F)F)c2)c2cccc(C(F)(F)F)c2)c1,,mono,0,442.3,8,10.6,8.8
+27,79,72897-07-5,"1,3-bis(4-methylphenyl)-5-phenyl-1,3,5-diazaphosphinane",CC1=CC=C(C=C1)N1CN(CP(C1)C1=CC=CC=C1)C1=CC=C(C)C=C1,"InChI=1S/C23H25N2P/c1-19-8-12-21(13-9-19)24-16-25(22-14-10-20(2)11-15-22)18-26(17-24)23-6-4-3-5-7-23/h3-15H,16-18H2,1-2H3
+",mono,0,360.44,6.5,8.7,7.2
+30,80,17005-57-1,"4-(Diethylphosphanyl)-N,N-dimethylaniline",CCP(CC)C1=CC=C(C=C1)N(C)C,"InChI=1S/C12H20NP/c1-5-14(6-2)12-9-7-11(8-10-12)13(3)4/h7-10H,5-6H2,1-4H3
+",mono,0,209.27,3.8,5,4.2
+33,81,52090-23-0,Diphenyl[3-(triethoxysilyl)propyl]phosphane,CCO[Si](CCCP(C1=CC=CC=C1)C1=CC=CC=C1)(OCC)OCC,"InChI=1S/C21H31O3PSi/c1-4-22-26(23-5-2,24-6-3)19-13-18-25(20-14-9-7-10-15-20)21-16-11-8-12-17-21/h7-12,14-17H,4-6,13,18-19H2,1-3H3
+",mono,0,390.54,7,9.4,7.8
+35,82,1632119-18-6,Exo-Phenyl Kwon [2.2.1] Bicyclic Phosphine,Cc1ccc(S(=O)(=O)N2C[C@@H]3C[C@H]2C[P@]3c2ccccc2)cc1,,mono,0,345.4,6.2,8.3,6.9
+45,83,5679-72-1,"5-(4-Methoxyphenyl)-4-(4-methylphenyl)-4H-1,2,4-triazole-3-thiol",COC1=CC=C(C=C1)C1=NN=C(S)N1C1=CC=C(C)C=C1,"InChI=1S/C16H15N3OS/c1-11-3-7-13(8-4-11)19-15(17-18-16(19)21)12-5-9-14(20-2)10-6-12/h3-10H,1-2H3,(H,18,21)
+",mono,0,211.2,3.8,5.1,4.2
+48,84,3577-87-5,methyl diphenyl phosphite,COP(OC1=CC=CC=C1)OC1=CC=CC=C1,"InChI=1S/C13H13O3P/c1-14-17(15-12-8-4-2-5-9-12)16-13-10-6-3-7-11-13/h2-11H,1H3
+",mono,0,248.22,4.5,6,5
+50,85,1810068-31-5,"Bis[3,5-bis(trifluoromethyl)phenyl][3,6-dimethoxy-2',6'-bis(1-methylethoxy)[1,1'-biphenyl]-2-yl]phosphine",COc1ccc(OC)c(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c1-c1c(OC(C)C)cccc1OC(C)C,,mono,0,786.59,14.2,18.9,15.7
+53,86,2704372-77-8,"9,9'-((Phenylphosphanediyl)bis(4,1-phenylene))bis(9H-carbazole)",c1ccc(P(c2ccc(-n3c4ccccc4c4ccccc43)cc2)c2ccc(-n3c4ccccc4c4ccccc43)cc2)cc1,,mono,0,592.68,10.7,14.2,11.9
+61,87,121373-20-4,Bis(2-(trimethylsilyl)ethyl) diisopropylphosphoramidite,CC(C)N(C(C)C)P(OCC[Si](C)(C)C)OCC[Si](C)(C)C,"InChI=1S/C16H40NO2PSi2/c1-15(2)17(16(3)4)20(18-11-13-21(5,6)7)19-12-14-22(8,9)10/h15-16H,11-14H2,1-10H3
+",mono,0,365.65,6.6,8.8,7.3
+65,88,1620166-17-7,"5,5'-Bis(bis(4-(trifluoromethyl)phenyl)phosphaneyl)-4,4'-bibenzo[d][1,3]dioxole",FC(F)(F)c1ccc(P(c2ccc(C(F)(F)F)cc2)c2ccc3c(c2-c2c(P(c4ccc(C(F)(F)F)cc4)c4ccc(C(F)(F)F)cc4)ccc4c2OCO4)OCO3)cc1,,di,0,882.57,7.9,10.6,8.8
+66,89,849925-29-7,Walphos SL-W022-1,C[C@H](c1[cH-]ccc1-c1ccccc1P(c1ccccc1)c1ccccc1)P([C@@H]1C[C@@H]2CC[C@H]1C2)[C@@H]1C[C@@H]2CC[C@H]1C2.[Fe+2].c1cc[cH-]c1,,di,0,694.66,6.3,8.3,6.9
+67,90,821009-34-1,SL-W008-1,C[C@H](c1[cH-]ccc1-c1ccccc1P(C1CCCCC1)C1CCCCC1)P(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1.[Fe+2].c1cc[cH-]c1,,di,0,942.63,8.5,11.3,9.4
+69,91,898830-89-2,"S, S-Reetz D-Diphosphonite",c1ccc(-p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c(Oc2ccccc2-p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c1,,di,0,798.77,7.2,9.6,8
+71,92,61478-29-3,"(2S,4S)-4-(Diphenylphosphino)-2-[(diphenylphosphino)methyl]pyrrolidine",C([C@@H]1C[C@@H](CN1)P(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)C1=CC=CC=C1,"InChI=1S/C29H29NP2/c1-5-13-25(14-6-1)31(26-15-7-2-8-16-26)23-24-21-29(22-30-24)32(27-17-9-3-10-18-27)28-19-11-4-12-20-28/h1-20,24,29-30H,21-23H2/t24-,29-/m0/s1
+",di,0,453.51,4.1,5.4,4.5
+77,93,831226-39-2,"Iron(2+) bis{2-[bis(2-methylphenyl)phosphanyl]-1-[(R)-(dimethylamino)(phenyl)methyl]cyclopenta-2,4-dien-1-ide}",[Fe++].CN(C)[C@H]([C-]1C=CC=C1P(C1=CC=CC=C1C)C1=CC=CC=C1C)C1=CC=CC=C1.CN(C)[C@H]([C-]1C=CC=C1P(C1=CC=CC=C1C)C1=CC=CC=C1C)C1=CC=CC=C1,"InChI=1S/2C28H29NP.Fe/c2*1-21-13-8-10-18-25(21)30(26-19-11-9-14-22(26)2)27-20-12-17-24(27)28(29(3)4)23-15-6-5-7-16-23;/h2*5-20,28H,1-4H3;/q2*-1;+2/t2*28-;/m00./s1
+",di,0,876.89,7.9,10.5,8.8
+79,94,172617-14-0,"(R)-(6,6'-Dimethoxy-[1,1'-biphenyl]-2,2'-diyl)bis(dicyclohexylphosphine)",COc1cccc(P(C2CCCCC2)C2CCCCC2)c1-c1c(OC)cccc1P(C1CCCCC1)C1CCCCC1,,di,0,606.81,5.5,7.3,6.1
+82,95,290347-66-9,"(S,S)-Ethyl-FerroTANE",CC[C@@H]1C[C@@H](CC)P1c1cc[cH-]c1.CC[C@@H]1C[C@@H](CC)P1c1cc[cH-]c1.[Fe+2],,di,0,442.35,4,5.3,4.4
+86,96,72897-07-5,"1,3-bis(4-methylphenyl)-5-phenyl-1,3,5-diazaphosphinane",CC1=CC=C(C=C1)N1CN(CP(C1)C1=CC=CC=C1)C1=CC=C(C)C=C1,"InChI=1S/C23H25N2P/c1-19-8-12-21(13-9-19)24-16-25(22-14-10-20(2)11-15-22)18-26(17-24)23-6-4-3-5-7-23/h3-15H,16-18H2,1-2H3
+",di,0,360.44,3.2,4.3,3.6
+97,97,1854067-50-7,Walphos SL-W029-1,C[C@H](c1[cH-]ccc1-c1ccccc1P(C1CCCCC1)C1CCCCC1)P(C(C)(C)C)C(C)(C)C.[Fe+2].c1cc[cH-]c1,,di,0,630.66,5.7,7.6,6.3

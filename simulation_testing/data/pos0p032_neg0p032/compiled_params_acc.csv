@@ -1,0 +1,5 @@
+pool_size,num_meet,num_redun,target_metric,count,avg_f_score,avg_sensitivity,avg_efficiency
+7,4,2,coop,37,0.55,0.51,0.62
+8,4,3,coop,7,0.54,0.47,0.63
+4,3,3,coop,4,0.51,0.44,0.62
+8,4,2,coop,2,0.52,0.44,0.62

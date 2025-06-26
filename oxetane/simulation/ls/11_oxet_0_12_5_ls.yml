@@ -1,0 +1,19 @@
+---
+## yml file containing all possible configs
+rng:
+  seed: 5730
+  # this seed is just used for random initial pooling and landscape generation; the GA outcome is still deterministic because we cannot provide a random seed in DEAP
+
+# in batch mode, generate a number of landscapes with same params
+simul:
+  N: 11
+  mode: "dimer"
+  neg_strength: 100
+  mean_rate: 10
+  sd_rate: 10
+  rate_outlier_prob: 0.08
+  p_pos: 0.03
+  range_pos: 5
+  p_neg: 0.1
+  range_neg: 0.4
+  num_landscapes: 100 # number of landscapes to generate; 1 if omitted

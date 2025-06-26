@@ -1,0 +1,14 @@
+rng:
+  seed: 1518140225
+simul:
+  N: 50
+  mode: dimer
+  neg_strength: 100
+  mean_rate: 10
+  sd_rate: 10
+  rate_outlier_prob: 0.02
+  p_pos: 0.01
+  range_pos: 5
+  p_neg: 0.01
+  range_neg: 0.3
+  num_landscapes: 50

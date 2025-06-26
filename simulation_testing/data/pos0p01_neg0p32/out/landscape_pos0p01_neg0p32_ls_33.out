@@ -1,0 +1,2955 @@
+Beginning of run
+landscape params:
+mode: dimer
+landscape: /n/home10/msak/multicat/batch_inputs_jobs/50_jun_grid/50_jun_grid_11_pos0p01_neg0p32/ls/landscape_pos0p01_neg0p32_ls_33
+N: 50
+neg_strength: 100
+num_reps: 100
+Landscape:
+{0: 0.0, 1: 5.328863456052943, 2: 16.02604817016938, 3: 9.79176399125855, 4: 14.939429640573286, 5: 21.113953522433857, 6: 7.491699498091565, 7: 6.929596566982493, 8: 19.202470626534584, 9: 8.622328176510184, 10: 6.14885834369903, 11: 1.746389080975959, 12: 6.646671885447721, 13: 10.915489913763862, 14: 0.0, 15: 25.03225902777482, 16: 19.22523441309552, 17: 8.402365450838522, 18: 18.722168159290845, 19: 0.0, 20: 13.732217609682781, 21: 24.682826432132078, 22: 15.576472722338984, 23: 12.643495017859033, 24: 12.562023026832788, 25: 29.493820620455466, 26: 0.0, 27: 16.564951359509315, 28: 24.644426989915022, 29: 6.260076273985153, 30: 0.0, 31: 9.028173480164984, 32: 30.536559155060722, 33: 18.960821148659846, 34: 19.17977493518923, 35: 6.692499543339989, 36: 18.044967121376597, 37: 11.106355755849806, 38: 10.28017421344323, 39: 15.698464542655426, 40: 23.548450027388377, 41: 14.02193087651337, 42: 14.584377512592734, 43: 0.0, 44: 0.0, 45: 0.0, 46: 3.6042313112750515, 47: 5.106931308817008, 48: 17.765920414142403, 49: 6.144652965920521}{(14, 30): 5.0, (18, 29): 5.0, (3, 30): 3.0, (26, 39): 3.0, (0, 9): 4.0, (0, 43): 4.0, (32, 43): 4.0, (21, 23): 3.0, (8, 11): 2.0, (25, 45): 4.0, (28, 49): 5.0, (10, 18): 5.0}{(41, 45): 0.00932008403473018, (17, 29): 0.2200653320230985, (19, 43): 0.2802073906797364, (42, 43): 0.1476207946200908, (5, 9): 0.2780758943161419, (14, 43): 0.15895684566413545, (16, 27): 0.012221111841520938, (3, 18): 0.06912782243519401, (4, 18): 0.047963794061731464, (36, 48): 0.27723986831300185, (10, 14): 0.2340640610370472, (13, 39): 0.13772933546778363, (17, 30): 0.22650114850214165, (12, 47): 0.19412175364010678, (11, 49): 0.09393930248270875, (24, 32): 0.027852568420540746, (1, 20): 0.26893176167732, (9, 31): 0.17291458028230175, (34, 36): 0.14918154788627333, (2, 4): 0.16372344910558403, (7, 17): 0.18220908792534157, (29, 41): 0.07166517639407131, (6, 13): 0.06665504728610092, (22, 38): 0.21345680815511653, (3, 43): 0.10908936929003059, (5, 8): 0.0705369639149356, (11, 41): 0.10155065919420919, (26, 41): 0.0014717181656662137, (0, 7): 0.08164942251702563, (5, 30): 0.17865921583942695, (10, 17): 0.2935236475225093, (14, 21): 0.1834139155363355, (21, 41): 0.20086761666937245, (15, 30): 0.10534792154055157, (0, 4): 0.10990714575814688, (23, 39): 0.21751048080069854, (24, 35): 0.2645414944722815, (35, 41): 0.0034703932372621704, (18, 22): 0.029099302298289054, (35, 39): 0.20300717597879983, (8, 17): 0.09923430527864222, (11, 29): 0.014646325698011485, (25, 33): 0.07624406550138726, (28, 29): 0.0691168083288234, (16, 43): 0.16249159206949798, (2, 13): 0.09865146721932742, (6, 10): 0.013762195864244252, (12, 33): 0.05992568125865305, (24, 26): 0.07043107747869427, (13, 41): 0.2808189213929073, (28, 37): 0.24773750899418728, (20, 44): 0.02190748253058242, (1, 36): 0.2804531758677854, (8, 19): 0.221229533078091, (7, 14): 0.05327143441035879, (27, 33): 0.19763197310440792, (33, 48): 0.20524436695631937, (11, 43): 0.18053534256073517, (3, 35): 0.08686221033873297, (20, 21): 0.015419930370173262, (0, 6): 0.1778566960827384, (22, 44): 0.26181741357303834, (20, 36): 0.12029753917087332, (12, 23): 0.08795612249412639, (26, 46): 0.2556169241132459, (8, 28): 0.23487575401030805, (1, 41): 0.1433162680655855, (19, 27): 0.008586999506012815, (13, 47): 0.257185252929623, (8, 25): 0.025753733733643192, (19, 26): 0.05499717350586599, (8, 49): 0.2165405413059635, (22, 46): 0.04559215886064722, (5, 49): 0.18543880883334699, (11, 24): 0.1789888839912457, (29, 31): 0.1721174970146837, (2, 18): 0.0010912263327700121, (32, 34): 0.037992735311816295, (28, 35): 0.27564892896147664, (0, 44): 0.11885581857237348, (24, 43): 0.2059159143575122, (19, 29): 0.23499414615434727, (24, 37): 0.033946960198425864, (10, 28): 0.08766138166982669, (8, 46): 0.0007865633228187119, (15, 45): 0.11062099393205833, (35, 44): 0.28859558142374586, (5, 7): 0.2217269611103936, (8, 38): 0.1623712387790145, (39, 40): 0.27125520620465227, (29, 43): 0.14206184793244717, (27, 45): 0.11401455150017376, (19, 20): 0.23147862418069198, (4, 20): 0.24561067072001372, (20, 46): 0.031050569259620485, (30, 34): 0.08009579964319899, (43, 44): 0.28848527949475744, (18, 37): 0.003779353593282064, (6, 47): 0.1951877886529221, (31, 35): 0.23141914603445457, (8, 26): 0.002742720146291644, (0, 21): 0.18726763636529603, (9, 17): 0.23791444860367272, (1, 16): 0.05342472981596956, (4, 11): 0.15621956493318487, (29, 37): 0.1506957782150337, (9, 13): 0.23766554893563938, (21, 39): 0.2643023659748819, (13, 29): 0.03840640015097103, (28, 48): 0.15541464357468612, (11, 17): 0.1057342114856397, (3, 39): 0.07093214869515348, (3, 42): 0.1885671748711767, (30, 35): 0.2299799938432442, (42, 45): 0.1432288334547545, (35, 46): 0.2976755340485017, (38, 45): 0.033533810564045474, (22, 42): 0.27401918202954983, (20, 37): 0.05202491383040164, (27, 31): 0.17356075887823208, (23, 49): 0.11976178958529965, (39, 48): 0.12574677318123867, (21, 45): 0.23940972811344347, (2, 21): 0.08881401364367436, (41, 43): 0.21686826182742427, (18, 39): 0.07157196279898771, (8, 30): 0.24526988812328146, (9, 21): 0.2982809830558769, (13, 30): 0.13977443233716283, (18, 32): 0.13273037127669932, (7, 38): 0.14995218614591893, (7, 41): 0.2389992058800265, (27, 41): 0.1342518998022809, (13, 24): 0.0012152118519707987, (18, 43): 0.02704187331276613, (32, 47): 0.027205996974508616, (0, 47): 0.18903048512570322, (23, 43): 0.29630941901620955, (41, 48): 0.06364528804377408, (16, 20): 0.01741540730106239, (31, 46): 0.05582434748133318, (25, 26): 0.03255707805806377, (12, 38): 0.06591422586890744, (15, 27): 0.17023886856621648, (4, 36): 0.11873069060068628, (2, 22): 0.2086005488475731, (14, 29): 0.2589515768123746, (19, 45): 0.2126395207470886, (37, 38): 0.07836173786830165, (26, 47): 0.09805487583117203, (31, 45): 0.22173552362267823, (30, 46): 0.001062589546688264, (10, 48): 0.004610048142014633, (26, 45): 0.1373122376279405, (17, 33): 0.2521995329159477, (13, 49): 0.2957484205821807, (11, 45): 0.25647848241363785, (17, 41): 0.26299379831379344, (20, 35): 0.08407740070437805, (27, 37): 0.005328080698554471, (23, 36): 0.08085264645165081, (4, 31): 0.2220900185856937, (0, 49): 0.2935749813186759, (16, 33): 0.180704446047622, (9, 10): 0.14374752950315656, (4, 46): 0.0741711298000199, (24, 29): 0.2149778941257541, (41, 47): 0.1263347272746394, (14, 44): 0.22798650113863791, (1, 17): 0.07875390039860268, (3, 46): 0.0825893628365888, (10, 21): 0.1121393076429658, (42, 48): 0.02087890516852785, (6, 41): 0.04672436281238224, (0, 46): 0.07016047257759798, (17, 46): 0.05694093807735385, (2, 30): 0.12002662305143286, (33, 45): 0.004892639764903927, (24, 31): 0.10131801937192308, (36, 39): 0.08299478616560649, (15, 28): 0.21458750549547348, (30, 42): 0.20342365710894963, (3, 12): 0.15986533736710304, (21, 22): 0.001992356882401558, (14, 26): 0.1964996541715683, (7, 12): 0.16189163841921358, (4, 37): 0.12446919542108055, (34, 48): 0.2659072055535663, (23, 47): 0.1436841167026294, (8, 42): 0.09080300419317498, (13, 18): 0.23941031706049126, (21, 42): 0.2937526251551161, (39, 44): 0.09288390276044461, (6, 48): 0.1139052701091781, (9, 22): 0.051615696737374935, (1, 6): 0.1556444569649772, (14, 18): 0.09977640339601547, (18, 42): 0.04441096808945627, (1, 11): 0.05450891114017898, (40, 46): 0.1289996845232398, (9, 15): 0.14255556380214504, (23, 34): 0.24735141246386377, (14, 49): 0.11557420795970104, (30, 33): 0.07923543343453043, (36, 49): 0.255748269587956, (22, 33): 0.12664542478301016, (15, 42): 0.021916294038677297, (6, 36): 0.0303905902555299, (2, 44): 0.0577813384321151, (24, 39): 0.03491381069637317, (0, 48): 0.24218053974969345, (48, 49): 0.20273484251712015, (0, 27): 0.08008765652155737, (3, 45): 0.09742879403692596, (19, 31): 0.035586177270275444, (4, 38): 0.243759148885766, (19, 30): 0.20231720276576973, (31, 47): 0.02963330873021941, (10, 15): 0.2513553930978461, (9, 25): 0.08117409196141852, (18, 30): 0.1905298055288437, (8, 36): 0.13643708862577286, (23, 48): 0.2359346778237185, (7, 35): 0.034795583779909475, (13, 46): 0.06889619820141729, (21, 29): 0.10056974911833011, (4, 15): 0.14371244682549125, (10, 33): 0.1835012099208958, (7, 30): 0.18129367613789338, (21, 25): 0.11940875917990962, (20, 24): 0.16211412049487903, (4, 24): 0.111504529282113, (7, 33): 0.2179961137580966, (3, 23): 0.09411234725011383, (15, 23): 0.2264824465966044, (13, 25): 0.2616612829516793, (14, 41): 0.05085825483999868, (7, 49): 0.17991663673835498, (8, 21): 0.19970998678983748, (45, 46): 0.25972451195061813, (21, 26): 0.22115492444350468, (12, 31): 0.010081688641352903, (19, 23): 0.2896776817921747, (19, 39): 0.04567743398666924, (0, 17): 0.18620599689687006, (7, 45): 0.2203473155004154, (1, 3): 0.10037452228893409, (26, 33): 0.23992231428062036, (0, 3): 0.13752108087205991, (16, 26): 0.04586335849417028, (38, 39): 0.1306132207398739, (28, 46): 0.08054500824082564, (22, 30): 0.17144546453784143, (22, 36): 0.23604211397486943, (38, 42): 0.114542476040751, (10, 44): 0.1904952879758474, (27, 34): 0.08100462569950936, (4, 14): 0.14434635777203517, (27, 40): 0.13890693909419952, (5, 10): 0.2217401320357678, (6, 18): 0.2903276062391584, (7, 27): 0.10742832389251189, (2, 5): 0.09642781025287857, (0, 19): 0.1510460033141055, (3, 44): 0.13708651120142976, (1, 12): 0.26823543023896146, (15, 21): 0.134772210447967, (17, 28): 0.03998545425239303, (33, 34): 0.07603683501864539, (16, 46): 0.0933110653807909, (8, 23): 0.27342313989903877, (26, 27): 0.15088979757442084, (4, 35): 0.2971613545864627, (34, 47): 0.2671309732396117, (7, 24): 0.21971913820222166, (37, 46): 0.2788641321493007, (10, 47): 0.015510285261133105, (29, 40): 0.28191387179905925, (16, 47): 0.1018477590974659, (10, 32): 0.21431454420630808, (12, 32): 0.055143045673889744, (32, 44): 0.12578871786097032, (33, 43): 0.10961938144057427, (14, 28): 0.09554363495228203, (12, 19): 0.05203953393367356, (7, 31): 0.0033920059629475416, (5, 31): 0.229929001555419, (0, 35): 0.18365281136885406, (2, 12): 0.1584146889337105, (31, 33): 0.18958081216094005, (10, 26): 0.10717708819022283, (8, 35): 0.15319248407020095, (17, 36): 0.20630243448408425, (26, 31): 0.06813707050590954, (18, 48): 0.05260861556566263, (12, 21): 0.1849833176956267, (15, 17): 0.2928026822547517, (6, 24): 0.18322959753473844, (17, 48): 0.03698717290637475, (2, 28): 0.26137035765965944, (32, 46): 0.18858031372635745, (24, 38): 0.0919124742884779, (19, 38): 0.038327612332810075, (37, 45): 0.2510150941501396, (40, 43): 0.014137331076660008, (9, 38): 0.034090166437394806, (10, 24): 0.11393738766221848, (24, 40): 0.1045368402408198, (0, 13): 0.25107445898373415, (4, 23): 0.0015986723583444106, (3, 47): 0.1328638509844837, (21, 47): 0.047725832828935257, (29, 45): 0.03561567154628905, (12, 15): 0.1926710666586099, (9, 47): 0.2630233196623181, (16, 38): 0.10619724369030634, (31, 38): 0.1697323551056056, (13, 48): 0.03553441008757904, (11, 47): 0.03560340444859528, (7, 10): 0.12315661536983141, (5, 18): 0.1741984936527281, (26, 36): 0.07471493902229934, (28, 32): 0.14492603065053983, (20, 32): 0.030894094125022597, (20, 34): 0.19004211127724407, (41, 44): 0.005504198033817864, (29, 48): 0.056561487150325745, (24, 34): 0.11763268966404182, (25, 31): 0.0732169697881791, (31, 48): 0.1595375655816684, (5, 40): 0.08093741803670687, (7, 20): 0.2706478845598274, (9, 18): 0.028325283134746426, (3, 41): 0.001240688865496209, (12, 20): 0.11626548617319092, (39, 49): 0.03123340380630064, (27, 43): 0.06547520513357417, (22, 23): 0.05628945084407369, (2, 32): 0.28151506805669463, (32, 41): 0.06922552491318879, (1, 33): 0.08002393182214011, (20, 45): 0.08121784804499649, (11, 30): 0.17859085413376694, (14, 19): 0.1676857359743114, (11, 27): 0.25964608303642484, (10, 29): 0.029236535859648236, (14, 32): 0.0058630729733242905, (27, 48): 0.054353612279295256, (39, 46): 0.22507465195931484, (1, 23): 0.01319700330835215, (1, 27): 0.08059830745313952, (3, 6): 0.1016485601997212, (9, 37): 0.2939869049208502, (18, 28): 0.033865200484060554, (15, 26): 0.24806539365389724, (5, 12): 0.2200981075506768, (14, 20): 0.1980081181830783, (41, 42): 0.06726073117710048, (27, 32): 0.004310513036631436, (20, 47): 0.05961478862445116, (5, 32): 0.0643264372461979, (25, 28): 0.22923140489957422, (22, 25): 0.20275038611606397, (20, 48): 0.0023603557424996314, (18, 21): 0.017062618675157036, (14, 45): 0.0011386530471134803, (20, 38): 0.16468267206007217, (9, 35): 0.24211567515931848, (12, 45): 0.11266295721113215, (24, 46): 0.0016890749823709195, (5, 22): 0.01220593729863173, (12, 27): 0.024769755425105098, (45, 48): 0.21843827620468018, (8, 16): 0.16450619133470676, (15, 25): 0.18085998141357604, (15, 24): 0.23924950420516763, (0, 37): 0.019640272033173953, (9, 30): 0.009403373595420083, (28, 34): 0.28507637484470216, (26, 40): 0.06762797821231248, (33, 38): 0.09978974361569118, (4, 29): 0.2856094611828536, (10, 37): 0.2529888801744444, (21, 24): 0.15363260250941754, (33, 36): 0.14102256581401434, (11, 13): 0.09956543379368953, (25, 47): 0.24831725106450112, (1, 46): 0.22766537771278345, (36, 37): 0.25748740001736664}----------------------------
+
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 4, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 5, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 6, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 6, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 6, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 6, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 6, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 6, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 7, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 8, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 4, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 9, 'num_meet': 4, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 2, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 2, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 2, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 3, 'num_redun': 1, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 3, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+Warning: no covering exists for the following parameter set, so it will not be run
+{'pool_size': 10, 'num_meet': 3, 'num_redun': 3, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'output', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
+2025-06-11 07:05:27.866206
+2025-06-11 07:05:28.159930
+2025-06-11 07:05:28.835144
+2025-06-11 07:05:29.538085
+2025-06-11 07:05:30.115974
+2025-06-11 07:05:31.105057
+2025-06-11 07:05:27.783687
+2025-06-11 07:05:31.932522
+2025-06-11 07:05:27.916220
+2025-06-11 07:05:31.763483
+2025-06-11 07:05:28.707983
+2025-06-11 07:05:32.438275
+2025-06-11 07:05:32.084378
+2025-06-11 07:05:33.057230
+2025-06-11 07:05:32.956431
+2025-06-11 07:05:33.060320
+2025-06-11 07:05:29.670567
+2025-06-11 07:05:30.292918
+2025-06-11 07:05:33.143425
+2025-06-11 07:05:27.877684
+2025-06-11 07:05:31.920198
+2025-06-11 07:05:34.556697
+2025-06-11 07:05:28.953028
+2025-06-11 07:05:31.810386
+2025-06-11 07:05:34.875363
+2025-06-11 07:05:35.201213
+2025-06-11 07:05:35.161184
+2025-06-11 07:05:29.761750
+2025-06-11 07:05:35.772357
+2025-06-11 07:05:31.426550
+2025-06-11 07:05:34.257196
+2025-06-11 07:05:35.888281
+2025-06-11 07:05:35.891552
+2025-06-11 07:05:34.238922
+2025-06-11 07:05:36.947963
+2025-06-11 07:05:34.641210
+2025-06-11 07:05:37.274802
+2025-06-11 07:05:38.133985
+2025-06-11 07:05:36.016267
+2025-06-11 07:05:32.500559
+2025-06-11 07:05:38.266142
+2025-06-11 07:05:35.924980
+2025-06-11 07:05:37.933120
+2025-06-11 07:05:39.167251
+2025-06-11 07:05:37.233143
+2025-06-11 07:05:34.350249
+2025-06-11 07:05:35.035232
+2025-06-11 07:05:39.436176
+2025-06-11 07:05:39.730972
+2025-06-11 07:05:39.543219
+2025-06-11 07:05:38.143077
+2025-06-11 07:05:39.452044
+2025-06-11 07:05:40.593852
+2025-06-11 07:05:36.294787
+2025-06-11 07:05:43.145910
+2025-06-11 07:05:41.370265
+2025-06-11 07:05:43.933855
+2025-06-11 07:05:42.287869
+2025-06-11 07:05:41.287158
+2025-06-11 07:05:35.957451
+2025-06-11 07:05:38.501031
+2025-06-11 07:05:37.207204
+2025-06-11 07:05:45.063276
+2025-06-11 07:05:43.110714
+2025-06-11 07:05:37.989203
+2025-06-11 07:05:40.451161
+2025-06-11 07:05:40.985807
+2025-06-11 07:05:37.997738
+2025-06-11 07:05:42.816189
+2025-06-11 07:05:37.041290
+2025-06-11 07:05:44.217170
+2025-06-11 07:05:44.167558
+2025-06-11 07:05:40.292246
+2025-06-11 07:05:41.662296
+2025-06-11 07:05:39.281475
+2025-06-11 07:05:43.588687
+2025-06-11 07:05:47.609214
+2025-06-11 07:05:40.579064
+2025-06-11 07:05:47.170936
+2025-06-11 07:05:43.303281
+2025-06-11 07:05:42.094298
+2025-06-11 07:05:43.756630
+2025-06-11 07:05:43.820062
+2025-06-11 07:05:43.514642
+2025-06-11 07:05:49.399162
+2025-06-11 07:05:49.952606
+2025-06-11 07:05:44.424882
+2025-06-11 07:05:47.407225
+2025-06-11 07:05:44.662236
+2025-06-11 07:05:46.345457
+2025-06-11 07:05:50.863390
+2025-06-11 07:05:52.029877
+2025-06-11 07:05:42.318631
+2025-06-11 07:05:50.104486
+2025-06-11 07:05:51.555313
+2025-06-11 07:05:48.125346
+2025-06-11 07:05:56.113894
+2025-06-11 07:05:49.240303
+2025-06-11 07:05:55.905650
+2025-06-11 07:05:56.054190
+2025-06-11 07:05:56.225162
+2025-06-11 07:05:49.781681
+2025-06-11 07:06:00.319029
+2025-06-11 07:05:47.320280
+2025-06-11 07:05:45.980706
+2025-06-11 07:05:55.206127
+2025-06-11 07:05:51.733272
+2025-06-11 07:05:52.871715
+2025-06-11 07:05:57.782590
+2025-06-11 07:05:49.817281
+2025-06-11 07:05:57.789207
+2025-06-11 07:05:50.877072
+2025-06-11 07:05:52.912274
+2025-06-11 07:06:00.244319
+2025-06-11 07:05:50.211240
+2025-06-11 07:05:54.980184
+2025-06-11 07:05:58.275106
+2025-06-11 07:05:56.009297
+2025-06-11 07:06:01.448253
+2025-06-11 07:05:54.777135
+2025-06-11 07:05:52.979351
+2025-06-11 07:06:01.293657
+2025-06-11 07:06:05.563166
+2025-06-11 07:05:55.370591
+2025-06-11 07:05:56.270971
+2025-06-11 07:05:51.645150
+2025-06-11 07:06:05.931471
+2025-06-11 07:05:59.951174
+2025-06-11 07:06:05.668234
+2025-06-11 07:05:56.131179
+2025-06-11 07:06:06.063113
+2025-06-11 07:05:59.039455
+2025-06-11 07:06:06.325766
+2025-06-11 07:05:59.218148
+2025-06-11 07:06:05.865897
+2025-06-11 07:06:02.766225
+2025-06-11 07:06:03.305906
+2025-06-11 07:05:52.106281
+2025-06-11 07:05:55.002147
+2025-06-11 07:05:54.797735
+2025-06-11 07:05:57.303637
+2025-06-11 07:06:09.726456
+2025-06-11 07:05:56.472896
+2025-06-11 07:05:57.598752
+2025-06-11 07:06:06.536200
+2025-06-11 07:06:06.374241
+2025-06-11 07:06:00.933837
+2025-06-11 07:06:11.195964
+2025-06-11 07:06:04.647174
+2025-06-11 07:06:09.479223
+2025-06-11 07:06:02.142426
+2025-06-11 07:06:14.341219
+2025-06-11 07:06:13.808697
+2025-06-11 07:06:12.211242
+2025-06-11 07:06:14.243038
+2025-06-11 07:06:10.296567
+2025-06-11 07:06:11.770894
+2025-06-11 07:06:14.100178
+2025-06-11 07:06:09.199497
+2025-06-11 07:05:31.114535
+2025-06-11 07:05:56.412167
+2025-06-11 07:06:11.199496
+2025-06-11 07:06:04.655525
+2025-06-11 07:05:32.938213
+2025-06-11 07:05:31.797610
+2025-06-11 07:06:08.501876
+2025-06-11 07:06:14.609868
+2025-06-11 07:06:13.805979
+2025-06-11 07:06:08.027243
+2025-06-11 07:06:11.414207
+2025-06-11 07:06:09.465289
+2025-06-11 07:06:11.082242
+2025-06-11 07:06:10.254699
+2025-06-11 07:06:00.904874
+2025-06-11 07:06:15.553916
+2025-06-11 07:06:15.613000
+2025-06-11 07:06:21.743078
+2025-06-11 07:06:14.117202
+2025-06-11 07:06:17.310485
+2025-06-11 07:06:17.911089
+2025-06-11 07:06:19.098100
+2025-06-11 07:06:11.768191
+2025-06-11 07:06:11.054962
+2025-06-11 07:06:19.334879
+2025-06-11 07:06:19.379197
+2025-06-11 07:06:14.638166
+2025-06-11 07:06:22.288117
+2025-06-11 07:06:16.746153
+2025-06-11 07:06:09.926241
+2025-06-11 07:06:21.461144
+2025-06-11 07:05:34.437311
+2025-06-11 07:06:22.545186
+2025-06-11 07:06:22.293170
+2025-06-11 07:06:22.245192
+2025-06-11 07:06:13.454135
+2025-06-11 07:06:06.563540
+2025-06-11 07:06:10.891294
+2025-06-11 07:05:43.061320
+2025-06-11 07:06:15.846984
+2025-06-11 07:05:39.614537
+2025-06-11 07:06:21.053604
+2025-06-11 07:06:24.915320
+2025-06-11 07:06:09.484259
+2025-06-11 07:05:45.058188
+2025-06-11 07:06:25.835336
+2025-06-11 07:06:22.630373
+2025-06-11 07:06:18.217182
+2025-06-11 07:06:16.904373
+2025-06-11 07:06:27.245793
+2025-06-11 07:06:28.977572
+2025-06-11 07:06:26.897175
+2025-06-11 07:06:17.135452
+2025-06-11 07:06:20.014193
+2025-06-11 07:06:30.110187
+2025-06-11 07:06:29.227133
+2025-06-11 07:06:28.256544
+2025-06-11 07:06:16.963182
+2025-06-11 07:06:17.310851
+2025-06-11 07:06:26.996718
+2025-06-11 07:06:31.193223
+2025-06-11 07:06:24.835202
+2025-06-11 07:06:12.431491
+2025-06-11 07:06:26.517280
+2025-06-11 07:06:32.271270
+2025-06-11 07:06:23.830265
+2025-06-11 07:06:27.910908
+2025-06-11 07:06:35.156152
+2025-06-11 07:06:17.330175
+2025-06-11 07:06:32.276118
+2025-06-11 07:06:31.965960
+2025-06-11 07:06:29.827210
+2025-06-11 07:06:25.742941
+2025-06-11 07:06:17.229086
+2025-06-11 07:06:31.400560
+2025-06-11 07:06:29.559217
+2025-06-11 07:06:25.740080
+2025-06-11 07:06:25.555206
+2025-06-11 07:05:45.966587
+2025-06-11 07:06:23.795143
+2025-06-11 07:06:31.308045
+2025-06-11 07:05:39.693743
+2025-06-11 07:06:24.120155
+2025-06-11 07:06:34.842150
+2025-06-11 07:06:30.220842
+2025-06-11 07:06:36.978160
+2025-06-11 07:06:20.084205
+2025-06-11 07:05:49.519757
+2025-06-11 07:06:29.548300
+2025-06-11 07:06:35.988188
+2025-06-11 07:06:37.296135
+2025-06-11 07:06:37.180336
+2025-06-11 07:06:26.659117
+2025-06-11 07:06:42.118192
+2025-06-11 07:06:40.182174
+2025-06-11 07:06:39.077629
+2025-06-11 07:06:41.016125
+2025-06-11 07:06:40.351270
+2025-06-11 07:06:31.365170
+2025-06-11 07:06:37.848198
+2025-06-11 07:06:37.759576
+2025-06-11 07:06:40.167336
+2025-06-11 07:05:49.388202
+2025-06-11 07:06:41.904734
+2025-06-11 07:06:42.430781
+2025-06-11 07:06:34.184941
+2025-06-11 07:06:25.513270
+2025-06-11 07:06:36.201163
+2025-06-11 07:05:53.915266
+2025-06-11 07:06:44.247133
+2025-06-11 07:06:36.293593
+2025-06-11 07:06:43.840127
+2025-06-11 07:06:47.811358
+2025-06-11 07:06:42.007644
+2025-06-11 07:06:41.473196
+2025-06-11 07:06:48.635269
+2025-06-11 07:06:45.125761
+2025-06-11 07:06:47.381315
+2025-06-11 07:06:34.682295
+2025-06-11 07:06:48.076165
+2025-06-11 07:06:42.503196
+2025-06-11 07:06:40.883673
+2025-06-11 07:06:48.576491
+2025-06-11 07:06:32.717471
+2025-06-11 07:06:43.226239
+2025-06-11 07:06:48.837032
+2025-06-11 07:06:44.392165
+2025-06-11 07:06:36.659036
+2025-06-11 07:06:45.026532
+2025-06-11 07:06:47.293353
+2025-06-11 07:06:42.227433
+2025-06-11 07:06:41.452204
+2025-06-11 07:06:44.216884
+2025-06-11 07:06:49.658186
+2025-06-11 07:06:35.817290
+2025-06-11 07:06:40.894457
+2025-06-11 07:06:43.385612
+2025-06-11 07:06:37.482329
+2025-06-11 07:06:49.801842
+2025-06-11 07:06:51.858615
+2025-06-11 07:06:50.479460
+2025-06-11 07:06:41.964341
+2025-06-11 07:06:32.318225
+2025-06-11 07:06:54.515821
+2025-06-11 07:05:54.722187
+2025-06-11 07:06:52.052698
+2025-06-11 07:05:58.798617
+2025-06-11 07:06:56.334765
+2025-06-11 07:06:02.685077
+2025-06-11 07:06:47.660513
+2025-06-11 07:05:58.249299
+2025-06-11 07:06:54.861034
+2025-06-11 07:06:54.558351
+2025-06-11 07:06:53.495219
+2025-06-11 07:05:29.986844
+2025-06-11 07:06:39.545749
+2025-06-11 07:06:42.589286
+2025-06-11 07:06:39.630049
+2025-06-11 07:06:42.528316
+2025-06-11 07:06:55.787253
+2025-06-11 07:06:55.848130
+2025-06-11 07:06:50.285935
+2025-06-11 07:06:53.135958
+2025-06-11 07:06:49.673166
+2025-06-11 07:06:58.252444
+2025-06-11 07:06:56.756259
+2025-06-11 07:06:58.758716
+2025-06-11 07:05:31.078777
+2025-06-11 07:06:54.342531
+2025-06-11 07:06:55.457828
+2025-06-11 07:07:03.372560
+2025-06-11 07:06:42.401227
+2025-06-11 07:07:01.337192
+2025-06-11 07:07:02.437603
+2025-06-11 07:06:52.090211
+2025-06-11 07:07:04.905114
+2025-06-11 07:06:57.781320
+2025-06-11 07:07:03.098509
+2025-06-11 07:07:02.337457
+2025-06-11 07:07:06.633795
+2025-06-11 07:06:59.722486
+2025-06-11 07:06:47.896162
+2025-06-11 07:06:45.227242
+2025-06-11 07:07:04.735175
+2025-06-11 07:06:57.686761
+2025-06-11 07:06:58.166375
+2025-06-11 07:06:59.387936
+2025-06-11 07:07:07.432693
+2025-06-11 07:05:29.630872
+2025-06-11 07:07:02.640494
+2025-06-11 07:07:06.615833
+2025-06-11 07:07:03.929533
+2025-06-11 07:06:24.194245
+2025-06-11 07:06:56.704016
+2025-06-11 07:07:01.186615
+2025-06-11 07:07:07.338207
+2025-06-11 07:07:10.331102
+2025-06-11 07:07:09.339743
+2025-06-11 07:07:01.348271
+2025-06-11 07:07:09.488219
+2025-06-11 07:07:03.964274
+2025-06-11 07:07:00.661187
+2025-06-11 07:07:06.819138
+2025-06-11 07:07:10.601071
+2025-06-11 07:07:10.754547
+2025-06-11 07:06:58.872299
+2025-06-11 07:06:52.603518
+2025-06-11 07:07:01.700278
+2025-06-11 07:07:03.765219
+2025-06-11 07:07:10.196582
+2025-06-11 07:06:57.927991
+2025-06-11 07:05:38.744790
+2025-06-11 07:07:13.264036
+2025-06-11 07:07:05.208698
+2025-06-11 07:05:31.801207
+2025-06-11 07:07:14.116881
+2025-06-11 07:07:05.007269
+2025-06-11 07:07:02.240605
+2025-06-11 07:06:22.757453
+2025-06-11 07:07:06.478933
+2025-06-11 07:07:12.311208
+2025-06-11 07:06:58.964526
+2025-06-11 07:07:02.170012
+2025-06-11 07:07:17.674355
+2025-06-11 07:07:04.992037
+2025-06-11 07:07:15.519201
+2025-06-11 07:07:11.445177
+2025-06-11 07:07:02.637493
+2025-06-11 07:07:01.371186
+2025-06-11 07:07:16.071902
+2025-06-11 07:07:14.548571
+2025-06-11 07:07:16.903271
+2025-06-11 07:05:37.779352
+2025-06-11 07:07:11.926549
+2025-06-11 07:06:24.607346
+2025-06-11 07:07:15.062581
+2025-06-11 07:07:16.905874
+2025-06-11 07:07:09.770214
+2025-06-11 07:07:14.320196
+2025-06-11 07:07:18.738428
+2025-06-11 07:07:18.101206
+2025-06-11 07:07:19.379154
+2025-06-11 07:05:42.284262
+2025-06-11 07:07:07.375498
+2025-06-11 07:07:18.812182
+2025-06-11 07:07:02.571201
+2025-06-11 07:07:22.567492
+2025-06-11 07:07:10.413260
+2025-06-11 07:07:23.725906
+2025-06-11 07:05:34.602288
+2025-06-11 07:06:35.998235
+2025-06-11 07:07:19.631868
+2025-06-11 07:07:19.930937
+2025-06-11 07:07:27.754162
+2025-06-11 07:07:17.987343
+2025-06-11 07:07:17.407127
+2025-06-11 07:06:31.697273
+2025-06-11 07:07:13.625321
+2025-06-11 07:07:25.297335
+2025-06-11 07:07:20.449288
+2025-06-11 07:07:20.078150
+2025-06-11 07:06:34.704291
+2025-06-11 07:07:20.560867
+2025-06-11 07:07:26.358287
+2025-06-11 07:06:33.878864
+2025-06-11 07:07:25.623241
+2025-06-11 07:07:21.742207
+2025-06-11 07:05:33.163252
+2025-06-11 07:07:31.331729
+2025-06-11 07:05:49.347432
+2025-06-11 07:07:30.169017
+2025-06-11 07:07:20.296972
+2025-06-11 07:07:20.223296
+2025-06-11 07:07:26.364840
+2025-06-11 07:07:27.345329
+2025-06-11 07:07:21.594133
+2025-06-11 07:07:30.278417
+2025-06-11 07:07:24.091065
+2025-06-11 07:07:32.144121
+2025-06-11 07:07:22.971104
+2025-06-11 07:07:13.622538
+2025-06-11 07:07:24.889645
+2025-06-11 07:07:35.484668
+2025-06-11 07:07:26.588299
+2025-06-11 07:07:28.329996
+2025-06-11 07:07:24.383371
+2025-06-11 07:07:28.726451
+2025-06-11 07:07:25.368315
+2025-06-11 07:07:31.559353
+2025-06-11 07:06:43.849317
+2025-06-11 07:07:38.290213
+2025-06-11 07:07:37.399114
+2025-06-11 07:07:28.604040
+2025-06-11 07:05:46.103381
+2025-06-11 07:06:45.461812
+2025-06-11 07:05:42.697314
+2025-06-11 07:07:30.115089
+2025-06-11 07:05:56.483324
+2025-06-11 07:06:43.292997
+2025-06-11 07:07:36.664172
+2025-06-11 07:06:50.815244
+2025-06-11 07:07:31.161934
+2025-06-11 07:07:32.126228
+2025-06-11 07:07:38.741667
+***********params************
+pool_size: 4
+num_meet: 2
+num_redun: 1
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[2, 0, 13, 0, 0, 1, 1, 0, 1, 2, 0, 0, 6, 0, 0, 1, 0, 1, 2, 3, 13, 0, 1, 1, 0, 1, 2, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6, 0, 1, 1, 0, 0, 0, 0, 1, 0, 6, 0, 2, 1, 0, 13, 0, 0, 3, 2, 1, 3, 0, 13, 0, 0, 1, 0, 0, 0, 3, 0, 3, 0, 0, 6, 0, 1, 0, 0, 0, 3, 0, 1, 0, 1, 0, 0, 0, 0, 3, 0, 0, 0, 2, 1, 0, 2, 1, 1, 0, 138, 1]
+accuracy: 0.52; coop_accuracy: 0.99; mean sensitivity: 0.2558333333333333; avg rank: 2.75; stdev rank: 13.866055675641867; total pools: 271.94
+
+2025-06-11 07:07:29.733144
+2025-06-11 07:07:27.734138
+2025-06-11 07:07:35.140624
+2025-06-11 07:07:33.594686
+2025-06-11 07:07:35.897321
+2025-06-11 07:07:35.451598
+2025-06-11 07:07:35.595806
+2025-06-11 07:07:31.338532
+2025-06-11 07:07:26.567166
+2025-06-11 07:07:26.261146
+2025-06-11 07:07:39.396249
+2025-06-11 07:07:46.263256
+2025-06-11 07:06:53.387328
+2025-06-11 07:07:42.842229
+2025-06-11 07:07:39.862576
+2025-06-11 07:07:40.795006
+2025-06-11 07:07:44.612183
+2025-06-11 07:07:03.728204
+***********params************
+pool_size: 4
+num_meet: 2
+num_redun: 1
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[2, 0, 6, 0, 0, 1, 1, 0, 1, 2, 0, 0, 3, 0, 0, 1, 0, 1, 2, 2, 13, 0, 1, 1, 0, 1, 2, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6, 0, 1, 1, 0, 0, 0, 0, 1, 0, 6, 0, 1, 1, 0, 138, 0, 0, 3, 2, 1, 3, 0, 6, 0, 0, 1, 0, 0, 0, 3, 0, 3, 0, 0, 6, 0, 1, 0, 0, 0, 3, 0, 1, 0, 1, 0, 0, 0, 0, 3, 0, 0, 0, 2, 1, 0, 2, 1, 1, 0, 146, 1]
+accuracy: 0.52; coop_accuracy: 1.0; mean sensitivity: 0.35416666666666674; avg rank: 3.89; stdev rank: 19.828209702340754; total pools: 326.87
+
+2025-06-11 07:07:35.280551
+2025-06-11 07:07:43.982185
+2025-06-11 07:05:28.107274
+2025-06-11 07:05:29.544040
+2025-06-11 07:07:46.562737
+2025-06-11 07:07:41.189100
+2025-06-11 07:05:27.108511
+2025-06-11 07:05:51.072277
+2025-06-11 07:07:44.477155
+2025-06-11 07:07:40.365900
+2025-06-11 07:07:44.031155
+2025-06-11 07:07:50.510227
+2025-06-11 07:07:41.099996
+2025-06-11 07:05:45.822305
+2025-06-11 07:07:37.826278
+2025-06-11 07:07:49.324948
+2025-06-11 07:05:54.733307
+2025-06-11 07:07:42.290251
+2025-06-11 07:07:42.259250
+2025-06-11 07:07:03.365030
+2025-06-11 07:07:48.232270
+2025-06-11 07:07:03.929156
+2025-06-11 07:07:43.831314
+2025-06-11 07:07:44.467748
+2025-06-11 07:07:51.333490
+2025-06-11 07:05:30.757610
+2025-06-11 07:07:53.984286
+2025-06-11 07:07:48.828311
+2025-06-11 07:07:49.889991
+2025-06-11 07:07:51.202202
+2025-06-11 07:07:39.406577
+2025-06-11 07:07:50.214213
+2025-06-11 07:07:52.893113
+2025-06-11 07:07:54.548244
+2025-06-11 07:07:51.713211
+2025-06-11 07:07:56.364279
+2025-06-11 07:07:51.726155
+2025-06-11 07:05:41.594212
+2025-06-11 07:07:17.318194
+2025-06-11 07:07:57.250826
+2025-06-11 07:07:52.714094
+2025-06-11 07:07:58.711778
+2025-06-11 07:07:56.444949
+2025-06-11 07:08:00.267339
+2025-06-11 07:05:32.589520
+2025-06-11 07:08:00.966218
+2025-06-11 07:07:57.526601
+2025-06-11 07:07:03.045721
+2025-06-11 07:07:54.694135
+2025-06-11 07:07:52.074171
+2025-06-11 07:07:52.600470
+2025-06-11 07:07:25.312794
+2025-06-11 07:05:30.592670
+2025-06-11 07:07:59.499200
+2025-06-11 07:07:53.814251
+2025-06-11 07:08:05.357453
+2025-06-11 07:08:04.493455
+2025-06-11 07:07:27.674224
+2025-06-11 07:05:37.643082
+2025-06-11 07:08:05.242238
+2025-06-11 07:08:07.010124
+2025-06-11 07:08:04.592269
+2025-06-11 07:08:00.041256
+2025-06-11 07:08:04.029484
+2025-06-11 07:08:06.793540
+2025-06-11 07:08:11.127716
+2025-06-11 07:08:10.199068
+2025-06-11 07:08:02.780880
+2025-06-11 07:08:03.640193
+2025-06-11 07:08:05.560219
+2025-06-11 07:07:37.261865
+2025-06-11 07:08:13.668538
+2025-06-11 07:08:12.526167
+2025-06-11 07:08:12.604569
+2025-06-11 07:08:06.505031
+2025-06-11 07:08:03.834566
+2025-06-11 07:08:12.129438
+2025-06-11 07:07:33.346546
+2025-06-11 07:07:36.086067
+2025-06-11 07:08:12.523329
+2025-06-11 07:08:09.246196
+2025-06-11 07:08:12.607266
+2025-06-11 07:08:14.842266
+2025-06-11 07:08:19.712297
+2025-06-11 07:05:36.378202
+2025-06-11 07:08:11.373164
+2025-06-11 07:08:09.824917
+2025-06-11 07:08:12.115167
+2025-06-11 07:08:18.758373
+2025-06-11 07:08:13.872255
+2025-06-11 07:08:08.972138
+2025-06-11 07:08:20.140384
+2025-06-11 07:08:16.429551
+2025-06-11 07:08:22.760329
+2025-06-11 07:08:19.259230
+2025-06-11 07:05:32.252629
+2025-06-11 07:08:16.159178
+2025-06-11 07:07:44.899213
+2025-06-11 07:08:24.794640
+2025-06-11 07:08:27.260224
+2025-06-11 07:08:26.003898
+2025-06-11 07:07:35.352154
+2025-06-11 07:08:28.502111
+2025-06-11 07:07:55.711433
+2025-06-11 07:08:27.749187
+2025-06-11 07:08:21.852356
+2025-06-11 07:08:25.794649
+2025-06-11 07:05:51.747173
+2025-06-11 07:08:32.290587
+2025-06-11 07:08:23.547180
+2025-06-11 07:05:45.724400
+2025-06-11 07:05:42.238194
+2025-06-11 07:08:25.623506
+2025-06-11 07:08:33.444738
+2025-06-11 07:08:32.390263
+2025-06-11 07:07:48.647149
+2025-06-11 07:07:49.228266
+2025-06-11 07:07:47.305358
+2025-06-11 07:08:23.601218
+2025-06-11 07:08:28.608268
+2025-06-11 07:08:24.739281
+2025-06-11 07:05:46.248244
+2025-06-11 07:08:31.383813
+2025-06-11 07:08:38.479252
+2025-06-11 07:05:56.557290
+2025-06-11 07:08:33.659113
+2025-06-11 07:08:36.468248
+2025-06-11 07:06:02.116654
+2025-06-11 07:08:33.010030
+2025-06-11 07:08:39.667275
+2025-06-11 07:08:44.418992
+2025-06-11 07:08:40.338649
+2025-06-11 07:08:41.035928
+2025-06-11 07:07:53.238191
+2025-06-11 07:08:31.941267
+2025-06-11 07:08:42.464186
+2025-06-11 07:08:38.133226
+2025-06-11 07:08:42.322257
+2025-06-11 07:07:04.919096
+2025-06-11 07:08:42.257803
+2025-06-11 07:08:12.108572
+2025-06-11 07:07:16.314254
+2025-06-11 07:08:48.639184
+2025-06-11 07:08:39.844328
+2025-06-11 07:07:23.524128
+2025-06-11 07:08:45.925145
+2025-06-11 07:08:51.330852
+2025-06-11 07:07:10.181354
+2025-06-11 07:08:04.564201
+2025-06-11 07:08:04.468895
+2025-06-11 07:08:51.692592
+2025-06-11 07:08:53.275902
+***********params************
+pool_size: 4
+num_meet: 2
+num_redun: 2
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 3, 0, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 2, 0, 0, 6, 0, 2, 1, 0, 13, 0, 0, 0, 3, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 6, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 6, 1]
+accuracy: 0.72; coop_accuracy: 1.0; mean sensitivity: 0.31; avg rank: 0.69; stdev rank: 1.741809404039374; total pools: 483.36
+
+2025-06-11 07:08:46.708182
+2025-06-11 07:08:53.191565
+2025-06-11 07:08:48.503795
+2025-06-11 07:08:46.105071
+2025-06-11 07:08:16.690947
+2025-06-11 07:07:27.753209
+2025-06-11 07:08:56.875229
+2025-06-11 07:08:52.397693
+2025-06-11 07:08:54.959195
+2025-06-11 07:09:01.289193
+2025-06-11 07:08:56.680153
+2025-06-11 07:08:14.088103
+2025-06-11 07:09:06.460990
+***********params************
+pool_size: 4
+num_meet: 2
+num_redun: 2
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 6, 0, 1, 1, 0, 6, 0, 0, 0, 3, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 2, 1]
+accuracy: 0.75; coop_accuracy: 1.0; mean sensitivity: 0.45999999999999985; avg rank: 0.43; stdev rank: 1.02230132544177; total pools: 527.78
+
+2025-06-11 07:08:26.251593
+2025-06-11 07:07:22.373876
+2025-06-11 07:09:00.165663
+2025-06-11 07:08:59.379889
+2025-06-11 07:09:01.831186
+2025-06-11 07:08:20.921691
+2025-06-11 07:09:08.019057
+2025-06-11 07:07:38.604151
+2025-06-11 07:08:30.861803
+2025-06-11 07:09:17.314336
+2025-06-11 07:07:47.247174
+2025-06-11 07:09:08.527274
+2025-06-11 07:09:07.619216
+2025-06-11 07:09:13.620258
+2025-06-11 07:08:29.710644
+2025-06-11 07:07:48.607613
+2025-06-11 07:08:51.222097
+2025-06-11 07:09:12.775593
+2025-06-11 07:09:17.280122
+2025-06-11 07:07:33.636227
+2025-06-11 07:09:13.724233
+2025-06-11 07:09:17.296722
+2025-06-11 07:07:38.010357
+2025-06-11 07:09:13.683332
+2025-06-11 07:09:24.862955
+2025-06-11 07:09:11.995352
+2025-06-11 07:09:19.449239
+2025-06-11 07:07:47.667167
+2025-06-11 07:08:42.625889
+2025-06-11 07:09:19.254191
+2025-06-11 07:07:32.903996
+2025-06-11 07:08:44.207320
+2025-06-11 07:09:27.386170
+2025-06-11 07:09:25.538515
+2025-06-11 07:08:49.520116
+2025-06-11 07:09:40.213230
+2025-06-11 07:09:42.823558
+2025-06-11 07:08:41.572265
+2025-06-11 07:09:33.586232
+2025-06-11 07:09:33.808826
+2025-06-11 07:09:34.577561
+2025-06-11 07:08:49.990450
+2025-06-11 07:07:58.320307
+2025-06-11 07:09:34.952410
+2025-06-11 07:09:41.893191
+2025-06-11 07:09:40.762319
+2025-06-11 07:09:00.521834
+2025-06-11 07:09:48.678533
+2025-06-11 07:09:04.119281
+2025-06-11 07:08:04.177363
+2025-06-11 07:09:09.346859
+2025-06-11 07:09:14.818497
+2025-06-11 07:09:48.863539
+2025-06-11 07:09:09.635405
+2025-06-11 07:09:47.859548
+2025-06-11 07:09:57.210553
+2025-06-11 07:09:23.367262
+2025-06-11 07:10:03.452708
+2025-06-11 07:08:01.649220
+2025-06-11 07:10:00.194678
+2025-06-11 07:09:27.212268
+2025-06-11 07:09:59.004235
+2025-06-11 07:09:19.518780
+2025-06-11 07:10:04.329335
+2025-06-11 07:10:20.484188
+2025-06-11 07:10:22.539196
+2025-06-11 07:10:18.049112
+2025-06-11 07:09:35.347443
+2025-06-11 07:09:39.409969
+2025-06-11 07:10:14.868152
+***********params************
+pool_size: 4
+num_meet: 2
+num_redun: 3
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 1, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+accuracy: 0.8; coop_accuracy: 1.0; mean sensitivity: 0.36583333333333334; avg rank: 0.27; stdev rank: 0.5975784467331463; total pools: 696.43
+
+2025-06-11 07:09:32.407241
+2025-06-11 07:07:57.005755
+2025-06-11 07:09:48.703533
+2025-06-11 07:10:28.110441
+2025-06-11 07:07:56.691637
+2025-06-11 07:09:51.725557
+2025-06-11 07:10:14.975288
+2025-06-11 07:08:05.544811
+2025-06-11 07:09:47.150397
+2025-06-11 07:09:05.864673
+2025-06-11 07:10:02.841848
+2025-06-11 07:07:57.933827
+2025-06-11 07:09:08.920154
+2025-06-11 07:09:58.985420
+2025-06-11 07:10:14.580158
+2025-06-11 07:10:12.947261
+2025-06-11 07:09:03.317706
+2025-06-11 07:10:06.555385
+2025-06-11 07:10:05.803304
+2025-06-11 07:10:25.396405
+2025-06-11 07:08:18.131241
+2025-06-11 07:08:13.004358
+2025-06-11 07:10:50.129788
+***********params************
+pool_size: 4
+num_meet: 2
+num_redun: 3
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
+accuracy: 0.85; coop_accuracy: 1.0; mean sensitivity: 0.5333333333333333; avg rank: 0.18; stdev rank: 0.45563142999578066; total pools: 751.32
+
+2025-06-11 07:09:14.978792
+2025-06-11 07:09:07.725082
+2025-06-11 07:10:21.343336
+2025-06-11 07:08:12.076720
+2025-06-11 07:09:24.613170
+2025-06-11 07:08:21.143425
+2025-06-11 07:09:29.495223
+2025-06-11 07:10:28.761592
+2025-06-11 07:08:41.003925
+2025-06-11 07:08:32.695432
+2025-06-11 07:10:47.815664
+2025-06-11 07:09:48.646478
+2025-06-11 07:10:46.587679
+2025-06-11 07:08:52.642289
+2025-06-11 07:10:56.970916
+2025-06-11 07:10:46.558348
+2025-06-11 07:10:49.457398
+2025-06-11 07:09:40.281221
+2025-06-11 07:09:35.357344
+2025-06-11 07:09:43.732672
+2025-06-11 07:08:46.571169
+2025-06-11 07:09:39.147792
+2025-06-11 07:11:03.020929
+2025-06-11 07:10:58.779374
+2025-06-11 07:09:33.792375
+2025-06-11 07:08:56.369238
+2025-06-11 07:08:47.260438
+2025-06-11 07:08:53.549253
+2025-06-11 07:11:14.592311
+2025-06-11 07:08:47.574410
+2025-06-11 07:11:08.196326
+2025-06-11 07:11:15.739051
+2025-06-11 07:11:15.488542
+2025-06-11 07:10:09.052236
+2025-06-11 07:11:12.696791
+2025-06-11 07:10:02.233224
+2025-06-11 07:11:27.204668
+2025-06-11 07:11:12.932596
+2025-06-11 07:11:13.823377
+2025-06-11 07:11:46.760679
+2025-06-11 07:11:37.763905
+2025-06-11 07:10:23.348909
+2025-06-11 07:11:44.092467
+2025-06-11 07:11:46.593241
+2025-06-11 07:11:47.685095
+2025-06-11 07:11:45.845468
+2025-06-11 07:12:03.010420
+2025-06-11 07:11:04.681291
+2025-06-11 07:12:01.909340
+2025-06-11 07:12:17.764052
+2025-06-11 07:11:27.136210
+2025-06-11 07:11:14.267357
+2025-06-11 07:12:27.372180
+2025-06-11 07:12:22.412214
+2025-06-11 07:12:32.106330
+2025-06-11 07:12:36.572626
+2025-06-11 07:12:24.553475
+2025-06-11 07:11:12.132871
+2025-06-11 07:11:29.388330
+2025-06-11 07:11:25.544281
+2025-06-11 07:12:44.797274
+2025-06-11 07:12:46.931297
+2025-06-11 07:11:44.697054
+2025-06-11 07:11:35.399368
+2025-06-11 07:12:36.445244
+2025-06-11 07:12:56.572916
+2025-06-11 07:12:39.400011
+2025-06-11 07:13:11.086382
+2025-06-11 07:13:03.434185
+2025-06-11 07:12:03.172475
+2025-06-11 07:11:49.879183
+2025-06-11 07:10:49.324156
+2025-06-11 07:11:49.281269
+2025-06-11 07:12:49.790262
+2025-06-11 07:10:51.312737
+2025-06-11 07:11:51.541216
+2025-06-11 07:10:59.450986
+2025-06-11 07:13:19.804253
+2025-06-11 07:11:58.803144
+2025-06-11 07:12:29.673342
+2025-06-11 07:11:30.843787
+2025-06-11 07:13:13.475773
+2025-06-11 07:13:42.874357
+2025-06-11 07:11:17.599344
+2025-06-11 07:11:28.852387
+2025-06-11 07:13:37.699210
+2025-06-11 07:13:33.303915
+2025-06-11 07:12:34.014509
+2025-06-11 07:13:38.670807
+2025-06-11 07:13:36.224234
+2025-06-11 07:11:10.665579
+2025-06-11 07:11:42.770204
+2025-06-11 07:13:41.914403
+2025-06-11 07:13:57.286293
+2025-06-11 07:11:18.530750
+2025-06-11 07:11:39.701197
+2025-06-11 07:13:51.768297
+2025-06-11 07:14:09.382471
+2025-06-11 07:11:52.549207
+2025-06-11 07:12:47.755288
+2025-06-11 07:11:45.908204
+2025-06-11 07:14:09.826229
+2025-06-11 07:14:03.827293
+2025-06-11 07:14:12.216565
+2025-06-11 07:14:15.599093
+2025-06-11 07:14:21.747233
+2025-06-11 07:12:05.691217
+2025-06-11 07:12:12.397220
+2025-06-11 07:13:18.454709
+2025-06-11 07:14:30.662189
+2025-06-11 07:13:36.254262
+2025-06-11 07:14:39.227301
+2025-06-11 07:14:42.098424
+2025-06-11 07:14:48.795009
+2025-06-11 07:15:00.006282
+2025-06-11 07:14:51.803341
+2025-06-11 07:13:47.976301
+2025-06-11 07:12:15.631519
+2025-06-11 07:13:44.092270
+2025-06-11 07:14:52.682724
+2025-06-11 07:14:57.108834
+2025-06-11 07:15:01.136276
+2025-06-11 07:12:19.368478
+2025-06-11 07:13:48.590353
+2025-06-11 07:15:10.100340
+2025-06-11 07:15:14.241223
+2025-06-11 07:13:43.760273
+2025-06-11 07:13:58.037760
+2025-06-11 07:14:02.814307
+2025-06-11 07:15:23.515233
+2025-06-11 07:14:14.652304
+2025-06-11 07:14:17.447516
+2025-06-11 07:15:27.940954
+2025-06-11 07:14:19.891319
+2025-06-11 07:15:30.680925
+2025-06-11 07:15:28.188073
+2025-06-11 07:14:36.933339
+2025-06-11 07:14:40.158364
+2025-06-11 07:15:34.796138
+2025-06-11 07:14:25.405147
+2025-06-11 07:15:45.418832
+2025-06-11 07:16:05.433687
+2025-06-11 07:15:56.690540
+2025-06-11 07:14:51.718764
+2025-06-11 07:15:57.002285
+2025-06-11 07:16:10.342198
+2025-06-11 07:16:04.035610
+2025-06-11 07:16:01.718252
+2025-06-11 07:16:12.316215
+2025-06-11 07:16:39.300217
+2025-06-11 07:16:20.072317
+2025-06-11 07:16:30.926976
+2025-06-11 07:16:29.480909
+2025-06-11 07:14:27.199186
+2025-06-11 07:15:18.494198
+2025-06-11 07:15:55.542191
+2025-06-11 07:14:17.314234
+2025-06-11 07:14:39.270521
+2025-06-11 07:17:08.644656
+2025-06-11 07:16:50.112661
+2025-06-11 07:16:56.446853
+2025-06-11 07:16:59.663427
+2025-06-11 07:14:25.105266
+2025-06-11 07:15:43.862332
+2025-06-11 07:14:59.884785
+2025-06-11 07:14:47.163247
+2025-06-11 07:16:56.068777
+2025-06-11 07:17:20.499345
+2025-06-11 07:15:05.831466
+2025-06-11 07:17:17.929574
+2025-06-11 07:14:47.567460
+2025-06-11 07:17:36.976834
+2025-06-11 07:17:09.201585
+2025-06-11 07:16:35.666326
+2025-06-11 07:17:16.556536
+2025-06-11 07:14:59.432313
+2025-06-11 07:16:08.732575
+2025-06-11 07:15:05.477352
+2025-06-11 07:17:20.234268
+2025-06-11 07:16:05.500030
+2025-06-11 07:17:27.592327
+2025-06-11 07:15:14.554115
+2025-06-11 07:15:21.116282
+2025-06-11 07:17:35.892467
+2025-06-11 07:15:41.169772
+2025-06-11 07:17:32.015195
+2025-06-11 07:16:28.553170
+2025-06-11 07:16:32.118050
+2025-06-11 07:17:49.150420
+2025-06-11 07:17:48.053207
+2025-06-11 07:16:31.528442
+2025-06-11 07:17:00.179210
+2025-06-11 07:18:07.826791
+2025-06-11 07:16:39.154304
+2025-06-11 07:16:52.096795
+2025-06-11 07:16:58.341445
+2025-06-11 07:18:12.188613
+2025-06-11 07:18:14.481435
+2025-06-11 07:16:57.158605
+2025-06-11 07:16:46.604177
+2025-06-11 07:18:08.478168
+2025-06-11 07:17:16.928112
+2025-06-11 07:18:29.257178
+2025-06-11 07:15:42.864618
+2025-06-11 07:18:43.872711
+2025-06-11 07:18:32.822243
+2025-06-11 07:18:39.355196
+2025-06-11 07:18:37.819305
+2025-06-11 07:18:36.069278
+2025-06-11 07:16:10.566592
+2025-06-11 07:19:01.211125
+2025-06-11 07:19:06.089171
+2025-06-11 07:16:23.026534
+2025-06-11 07:17:55.995232
+2025-06-11 07:18:54.365917
+2025-06-11 07:17:51.386926
+2025-06-11 07:17:51.141297
+2025-06-11 07:18:46.294563
+2025-06-11 07:18:43.431351
+2025-06-11 07:18:16.835773
+2025-06-11 07:18:54.609212
+2025-06-11 07:19:54.641310
+2025-06-11 07:18:07.717739
+2025-06-11 07:19:06.671455
+2025-06-11 07:18:18.149268
+2025-06-11 07:19:05.812199
+2025-06-11 07:19:12.880212
+2025-06-11 07:19:02.911297
+2025-06-11 07:19:20.499157
+2025-06-11 07:19:23.086531
+2025-06-11 07:18:15.383392
+2025-06-11 07:18:48.333246
+2025-06-11 07:17:56.254099
+2025-06-11 07:19:32.628739
+2025-06-11 07:19:21.610369
+2025-06-11 07:20:26.028948
+2025-06-11 07:20:53.183678
+2025-06-11 07:18:37.379208
+2025-06-11 07:19:27.619287
+2025-06-11 07:18:34.107051
+2025-06-11 07:18:25.858801
+2025-06-11 07:19:26.165266
+2025-06-11 07:18:44.327429
+2025-06-11 07:19:01.813673
+2025-06-11 07:20:26.813665
+2025-06-11 07:18:56.697244
+2025-06-11 07:21:44.459350
+2025-06-11 07:21:42.943174
+***********params************
+pool_size: 6
+num_meet: 3
+num_redun: 1
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.7358333333333335; avg rank: 0.0; stdev rank: 0.0; total pools: 1457.58
+
+2025-06-11 07:20:38.109275
+2025-06-11 07:20:38.410874
+2025-06-11 07:20:45.023297
+2025-06-11 07:19:05.782686
+2025-06-11 07:20:01.959483
+2025-06-11 07:20:23.167258
+2025-06-11 07:20:34.495765
+2025-06-11 07:20:48.407353
+2025-06-11 07:21:16.184262
+2025-06-11 07:19:47.164213
+2025-06-11 07:21:09.506281
+2025-06-11 07:21:29.476829
+2025-06-11 07:20:14.148256
+2025-06-11 07:21:19.537253
+2025-06-11 07:21:34.267397
+2025-06-11 07:21:15.099474
+2025-06-11 07:21:11.544838
+2025-06-11 07:22:35.273809
+***********params************
+pool_size: 6
+num_meet: 3
+num_redun: 1
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 0.97; coop_accuracy: 1.0; mean sensitivity: 0.3825; avg rank: 0.03; stdev rank: 0.17058722109231983; total pools: 1155.13
+
+2025-06-11 07:21:19.214756
+2025-06-11 07:21:57.877282
+2025-06-11 07:21:51.311026
+2025-06-11 07:21:09.550487
+2025-06-11 07:20:55.278152
+2025-06-11 07:21:48.760253
+2025-06-11 07:22:13.393451
+2025-06-11 07:21:26.693489
+2025-06-11 07:21:27.673752
+2025-06-11 07:22:58.111629
+2025-06-11 07:22:44.708238
+2025-06-11 07:22:43.552808
+2025-06-11 07:21:20.771448
+2025-06-11 07:22:39.602263
+2025-06-11 07:22:40.869226
+2025-06-11 07:22:08.057245
+2025-06-11 07:21:53.031265
+2025-06-11 07:21:51.955271
+2025-06-11 07:22:12.814164
+2025-06-11 07:23:35.165668
+2025-06-11 07:23:01.649292
+2025-06-11 07:23:32.064309
+2025-06-11 07:23:14.211628
+2025-06-11 07:23:07.944166
+2025-06-11 07:22:41.032293
+2025-06-11 07:22:16.808647
+2025-06-11 07:23:42.818247
+2025-06-11 07:22:48.868219
+2025-06-11 07:24:07.067286
+2025-06-11 07:22:37.205443
+2025-06-11 07:23:37.656560
+2025-06-11 07:23:54.423247
+2025-06-11 07:23:03.970716
+2025-06-11 07:22:36.390266
+2025-06-11 07:22:43.145781
+2025-06-11 07:22:37.775623
+2025-06-11 07:22:37.629293
+2025-06-11 07:22:36.813205
+2025-06-11 07:23:16.544263
+2025-06-11 07:24:15.978214
+2025-06-11 07:22:35.986149
+2025-06-11 07:24:30.844337
+2025-06-11 07:22:37.019173
+2025-06-11 07:08:03.338046
+2025-06-11 07:08:28.547359
+2025-06-11 07:24:01.414324
+2025-06-11 07:08:13.674131
+2025-06-11 07:07:55.000327
+2025-06-11 07:22:37.436190
+2025-06-11 07:24:49.835271
+2025-06-11 07:24:58.813276
+2025-06-11 07:24:03.896188
+2025-06-11 07:25:25.273266
+2025-06-11 07:25:29.350169
+2025-06-11 07:08:25.341271
+2025-06-11 07:25:05.104392
+2025-06-11 07:25:16.520356
+2025-06-11 07:23:52.875247
+2025-06-11 07:23:58.792364
+2025-06-11 07:25:17.621172
+2025-06-11 07:25:48.515247
+2025-06-11 07:08:17.589266
+2025-06-11 07:08:09.844918
+2025-06-11 07:24:22.878234
+2025-06-11 07:24:03.463324
+2025-06-11 07:25:33.650303
+2025-06-11 07:24:36.583846
+2025-06-11 07:24:17.147660
+2025-06-11 07:08:17.053310
+2025-06-11 07:23:50.469337
+2025-06-11 07:08:04.890426
+2025-06-11 07:25:35.985883
+2025-06-11 07:26:03.029920
+2025-06-11 07:24:30.398287
+2025-06-11 07:23:56.151771
+2025-06-11 07:24:03.138216
+2025-06-11 07:25:22.448333
+2025-06-11 07:26:21.535795
+2025-06-11 07:08:06.050762
+2025-06-11 07:07:57.564185
+2025-06-11 07:24:44.035350
+2025-06-11 07:08:19.806188
+2025-06-11 07:26:21.127195
+2025-06-11 07:26:18.732273
+2025-06-11 07:25:22.069952
+2025-06-11 07:25:20.407672
+2025-06-11 07:08:11.804383
+2025-06-11 07:25:21.820675
+2025-06-11 07:08:11.674408
+2025-06-11 07:08:04.858248
+2025-06-11 07:25:07.204372
+2025-06-11 07:08:32.163390
+2025-06-11 07:26:48.846752
+2025-06-11 07:27:01.945906
+2025-06-11 07:25:53.196208
+2025-06-11 07:27:28.785710
+2025-06-11 07:26:09.711279
+2025-06-11 07:25:57.340364
+2025-06-11 07:27:55.479411
+2025-06-11 07:27:45.941244
+2025-06-11 07:27:36.712912
+2025-06-11 07:26:30.758333
+2025-06-11 07:27:40.498308
+2025-06-11 07:27:47.306255
+2025-06-11 07:26:21.236274
+2025-06-11 07:27:45.491688
+2025-06-11 07:26:47.142165
+2025-06-11 07:28:01.582196
+2025-06-11 07:26:33.606183
+2025-06-11 07:26:41.397356
+2025-06-11 07:28:15.216134
+2025-06-11 07:26:46.486738
+2025-06-11 07:27:55.695239
+2025-06-11 07:26:39.577225
+2025-06-11 07:27:01.839286
+2025-06-11 07:28:15.194715
+2025-06-11 07:28:49.354564
+2025-06-11 07:26:32.600123
+2025-06-11 07:28:48.814910
+2025-06-11 07:27:05.261196
+2025-06-11 07:28:39.060783
+2025-06-11 07:27:59.861651
+2025-06-11 07:29:12.737319
+2025-06-11 07:29:23.579613
+2025-06-11 07:28:01.153242
+2025-06-11 07:28:10.703261
+2025-06-11 07:27:20.573531
+2025-06-11 07:27:39.849306
+2025-06-11 07:27:28.903837
+2025-06-11 07:28:15.839209
+2025-06-11 07:28:11.901525
+2025-06-11 07:27:52.861699
+2025-06-11 07:28:11.370511
+2025-06-11 07:29:30.869481
+2025-06-11 07:28:24.268611
+2025-06-11 07:28:56.851231
+2025-06-11 07:28:30.450177
+2025-06-11 07:28:38.411955
+2025-06-11 07:30:17.630305
+2025-06-11 07:29:59.027877
+2025-06-11 07:27:47.504517
+2025-06-11 07:30:00.259328
+2025-06-11 07:28:56.602513
+2025-06-11 07:30:14.089723
+2025-06-11 07:29:07.457305
+2025-06-11 07:30:32.889366
+2025-06-11 07:30:06.455355
+2025-06-11 07:28:41.244207
+2025-06-11 07:28:53.879273
+2025-06-11 07:30:44.016150
+2025-06-11 07:29:45.231267
+2025-06-11 07:30:22.236535
+2025-06-11 07:30:26.675488
+2025-06-11 07:29:48.156287
+2025-06-11 07:29:21.491466
+2025-06-11 07:31:27.221334
+2025-06-11 07:31:16.194244
+2025-06-11 07:30:56.409413
+2025-06-11 07:30:58.240632
+2025-06-11 07:31:01.256229
+2025-06-11 07:31:32.344442
+2025-06-11 07:30:09.046198
+2025-06-11 07:30:31.701889
+2025-06-11 07:30:26.373275
+2025-06-11 07:30:20.487471
+2025-06-11 07:30:27.253161
+2025-06-11 07:31:17.098210
+2025-06-11 07:30:35.926850
+2025-06-11 07:32:20.482638
+2025-06-11 07:32:16.072318
+2025-06-11 07:31:02.036770
+2025-06-11 07:30:46.297162
+2025-06-11 07:31:40.024450
+2025-06-11 07:30:56.457402
+2025-06-11 07:31:50.411860
+2025-06-11 07:30:55.125277
+2025-06-11 07:31:58.850883
+2025-06-11 07:32:19.069392
+2025-06-11 07:32:19.747433
+2025-06-11 07:32:02.722262
+2025-06-11 07:31:34.720642
+2025-06-11 07:31:38.412204
+2025-06-11 07:32:15.159302
+2025-06-11 07:32:09.258307
+2025-06-11 07:32:02.915209
+2025-06-11 07:32:18.707151
+2025-06-11 07:32:45.778255
+2025-06-11 07:32:19.322231
+2025-06-11 07:32:51.749687
+2025-06-11 07:32:31.743156
+2025-06-11 07:33:06.342850
+2025-06-11 07:32:23.532204
+2025-06-11 07:32:36.689989
+2025-06-11 07:32:46.669206
+2025-06-11 07:33:10.511279
+2025-06-11 07:34:39.616084
+2025-06-11 07:34:36.378992
+2025-06-11 07:34:00.626638
+2025-06-11 07:34:09.962658
+2025-06-11 07:34:40.102240
+2025-06-11 07:34:16.610401
+2025-06-11 07:34:26.095274
+2025-06-11 07:34:08.354639
+2025-06-11 07:34:42.098716
+2025-06-11 07:34:32.019357
+2025-06-11 07:34:32.751392
+2025-06-11 07:36:27.486828
+2025-06-11 07:35:29.250543
+2025-06-11 07:34:40.973681
+2025-06-11 07:34:59.010428
+2025-06-11 07:35:25.789850
+2025-06-11 07:36:36.199216
+2025-06-11 07:35:12.322204
+2025-06-11 07:35:25.390143
+2025-06-11 07:35:37.120840
+2025-06-11 07:35:13.530193
+2025-06-11 07:35:36.787485
+2025-06-11 07:35:29.458150
+2025-06-11 07:35:26.329247
+2025-06-11 07:36:02.028245
+2025-06-11 07:35:18.055148
+2025-06-11 07:35:32.044405
+2025-06-11 07:35:10.163596
+2025-06-11 07:35:49.659223
+2025-06-11 07:35:36.348501
+2025-06-11 07:35:54.306261
+2025-06-11 07:35:57.759477
+2025-06-11 07:36:02.737351
+2025-06-11 07:35:59.866557
+2025-06-11 07:36:27.172013
+2025-06-11 07:36:12.485727
+2025-06-11 07:37:02.382126
+2025-06-11 07:38:10.645236
+***********params************
+pool_size: 6
+num_meet: 3
+num_redun: 2
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.8266666666666669; avg rank: 0.0; stdev rank: 0.0; total pools: 2678.77
+
+2025-06-11 07:37:39.316288
+2025-06-11 07:37:04.369830
+2025-06-11 07:37:28.697910
+2025-06-11 07:37:53.311252
+2025-06-11 07:37:54.126935
+2025-06-11 07:37:23.160077
+2025-06-11 07:38:35.459243
+***********params************
+pool_size: 6
+num_meet: 3
+num_redun: 2
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.4241666666666666; avg rank: 0.0; stdev rank: 0.0; total pools: 2249.4
+
+2025-06-11 07:38:34.543229
+2025-06-11 07:37:50.927180
+2025-06-11 07:38:09.565971
+2025-06-11 07:38:40.671079
+2025-06-11 07:38:42.255371
+2025-06-11 07:38:00.407457
+2025-06-11 07:38:52.500972
+2025-06-11 07:38:36.467402
+2025-06-11 07:38:48.201320
+2025-06-11 07:39:04.996194
+2025-06-11 07:38:28.174985
+2025-06-11 07:38:12.173325
+2025-06-11 07:38:59.191851
+2025-06-11 07:38:37.338849
+2025-06-11 07:39:17.561307
+2025-06-11 07:38:42.331146
+2025-06-11 07:39:00.709233
+2025-06-11 07:39:15.301592
+2025-06-11 07:39:16.313266
+2025-06-11 07:39:18.945189
+2025-06-11 07:39:01.405556
+2025-06-11 07:39:05.872296
+2025-06-11 07:38:54.733992
+2025-06-11 07:39:36.784541
+2025-06-11 07:39:58.877268
+2025-06-11 07:39:38.463718
+2025-06-11 07:40:47.464202
+2025-06-11 07:41:01.807349
+2025-06-11 07:41:32.536222
+2025-06-11 07:41:39.364398
+2025-06-11 07:41:18.198219
+2025-06-11 07:41:40.728793
+2025-06-11 07:41:25.341263
+2025-06-11 07:41:16.550312
+2025-06-11 07:41:40.084388
+2025-06-11 07:41:35.808265
+2025-06-11 07:41:52.226674
+2025-06-11 07:41:11.590468
+2025-06-11 07:42:12.304437
+2025-06-11 07:42:42.426232
+2025-06-11 07:42:46.528054
+2025-06-11 07:42:45.867097
+2025-06-11 07:42:07.648355
+2025-06-11 07:42:09.713304
+2025-06-11 07:42:32.040505
+2025-06-11 07:42:49.723741
+2025-06-11 07:42:49.568301
+2025-06-11 07:42:22.202836
+2025-06-11 07:42:24.801063
+2025-06-11 07:42:23.558004
+2025-06-11 07:43:34.808295
+2025-06-11 07:42:54.045785
+2025-06-11 07:43:36.137211
+2025-06-11 07:27:23.213301
+2025-06-11 07:42:46.052397
+2025-06-11 07:42:55.357548
+2025-06-11 07:43:09.868234
+2025-06-11 07:42:52.455290
+2025-06-11 07:40:15.954282
+2025-06-11 07:27:11.826646
+2025-06-11 07:27:27.052133
+2025-06-11 07:43:12.740840
+2025-06-11 07:40:16.225945
+2025-06-11 07:28:15.785329
+2025-06-11 07:40:15.259176
+2025-06-11 07:40:14.991540
+2025-06-11 07:40:15.663163
+2025-06-11 07:40:12.989299
+2025-06-11 07:09:28.573266
+2025-06-11 07:28:12.802855
+2025-06-11 07:27:59.958816
+2025-06-11 07:44:29.022306
+2025-06-11 07:27:28.160028
+2025-06-11 07:44:38.183236
+2025-06-11 07:09:33.833832
+2025-06-11 07:29:06.519212
+2025-06-11 07:40:13.687408
+2025-06-11 07:09:21.657208
+2025-06-11 07:44:58.552433
+2025-06-11 07:41:31.734641
+2025-06-11 07:41:36.263231
+2025-06-11 07:40:15.499418
+2025-06-11 07:41:41.324246
+2025-06-11 07:27:46.182196
+2025-06-11 07:09:24.184277
+2025-06-11 07:09:18.804627
+2025-06-11 07:09:32.061398
+2025-06-11 07:29:07.006125
+2025-06-11 07:45:21.902234
+2025-06-11 07:45:26.926514
+2025-06-11 07:29:08.680908
+2025-06-11 07:28:41.399765
+2025-06-11 07:45:46.150426
+2025-06-11 07:41:39.352773
+2025-06-11 07:28:56.859490
+2025-06-11 07:09:32.997315
+2025-06-11 07:09:44.757464
+2025-06-11 07:27:58.173798
+2025-06-11 07:45:34.833995
+2025-06-11 07:45:45.955059
+2025-06-11 07:41:48.032215
+2025-06-11 07:41:35.764574
+2025-06-11 07:09:53.120198
+2025-06-11 07:09:23.243235
+2025-06-11 07:46:12.661225
+2025-06-11 07:41:44.905250
+2025-06-11 07:45:45.130204
+2025-06-11 07:41:42.214352
+2025-06-11 07:28:46.937320
+2025-06-11 07:46:39.609639
+2025-06-11 07:46:28.543734
+2025-06-11 07:46:29.710246
+2025-06-11 07:09:58.868246
+2025-06-11 07:46:50.080304
+2025-06-11 07:09:21.493283
+2025-06-11 07:46:24.040216
+2025-06-11 07:47:03.751762
+2025-06-11 07:47:05.415658
+2025-06-11 07:46:19.132590
+2025-06-11 07:09:41.866290
+2025-06-11 07:09:54.657263
+2025-06-11 07:28:46.910830
+2025-06-11 07:09:29.519580
+2025-06-11 07:09:35.424153
+2025-06-11 07:46:36.360503
+2025-06-11 07:47:05.856727
+2025-06-11 07:48:16.322240
+2025-06-11 07:48:54.718776
+2025-06-11 07:48:52.277363
+2025-06-11 07:48:59.499875
+2025-06-11 07:49:22.580268
+2025-06-11 07:49:36.358291
+2025-06-11 07:49:23.162188
+2025-06-11 07:49:56.988394
+2025-06-11 07:49:50.253358
+2025-06-11 07:49:40.697284
+2025-06-11 07:47:43.036420
+2025-06-11 07:49:59.053577
+2025-06-11 07:50:08.788585
+2025-06-11 07:50:36.357669
+2025-06-11 07:50:18.836184
+2025-06-11 07:50:20.791318
+2025-06-11 07:50:19.594035
+2025-06-11 07:50:15.649330
+2025-06-11 07:47:35.454566
+2025-06-11 07:47:46.235195
+2025-06-11 07:50:45.573447
+2025-06-11 07:51:15.566893
+2025-06-11 07:48:37.374278
+2025-06-11 07:47:11.242781
+2025-06-11 07:48:17.138305
+2025-06-11 07:48:24.057101
+2025-06-11 07:47:42.211346
+2025-06-11 07:52:36.642262
+2025-06-11 07:47:24.195084
+2025-06-11 07:52:20.013274
+2025-06-11 07:49:06.094762
+2025-06-11 07:49:38.438853
+2025-06-11 07:48:10.663686
+2025-06-11 07:53:03.577341
+2025-06-11 07:52:01.843245
+2025-06-11 07:51:41.381297
+2025-06-11 07:48:26.694981
+2025-06-11 07:49:23.456314
+2025-06-11 07:52:38.814272
+2025-06-11 07:52:46.406250
+2025-06-11 07:49:27.316961
+2025-06-11 07:53:13.267373
+2025-06-11 07:53:31.581219
+***********params************
+pool_size: 6
+num_meet: 3
+num_redun: 3
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.8733333333333334; avg rank: 0.0; stdev rank: 0.0; total pools: 3841.15
+
+2025-06-11 07:49:45.134517
+2025-06-11 07:53:42.917313
+2025-06-11 07:53:09.621236
+2025-06-11 07:53:54.770223
+2025-06-11 07:53:52.262072
+2025-06-11 07:53:45.547298
+2025-06-11 07:53:58.632593
+2025-06-11 07:53:48.295803
+2025-06-11 07:54:28.445151
+***********params************
+pool_size: 6
+num_meet: 3
+num_redun: 3
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.4358333333333333; avg rank: 0.0; stdev rank: 0.0; total pools: 3342.38
+
+2025-06-11 07:54:20.634388
+2025-06-11 07:55:55.743492
+2025-06-11 07:55:23.609154
+2025-06-11 07:55:56.036114
+2025-06-11 07:55:51.853484
+2025-06-11 07:55:32.913791
+2025-06-11 07:56:16.254193
+2025-06-11 07:56:12.637325
+2025-06-11 07:53:14.387127
+2025-06-11 07:56:27.971507
+2025-06-11 07:57:12.404306
+2025-06-11 07:54:15.078045
+2025-06-11 07:57:06.335117
+2025-06-11 07:57:02.313666
+2025-06-11 07:57:14.190390
+2025-06-11 07:57:46.988882
+2025-06-11 07:57:13.088879
+2025-06-11 07:54:44.795449
+2025-06-11 07:58:10.258225
+2025-06-11 07:57:38.224639
+2025-06-11 07:54:35.361074
+2025-06-11 07:55:12.636363
+2025-06-11 07:55:14.046035
+2025-06-11 07:54:13.431915
+2025-06-11 07:55:37.772285
+2025-06-11 07:59:31.727289
+2025-06-11 07:54:35.642156
+2025-06-11 07:55:29.799369
+2025-06-11 07:55:37.775040
+2025-06-11 07:55:38.390227
+2025-06-11 07:55:56.107217
+2025-06-11 07:59:39.066830
+2025-06-11 07:59:40.766443
+2025-06-11 07:59:43.586557
+2025-06-11 08:00:07.353801
+2025-06-11 08:00:03.658836
+2025-06-11 07:56:06.784588
+2025-06-11 07:56:20.780310
+2025-06-11 08:01:06.315362
+2025-06-11 08:00:31.312308
+2025-06-11 07:56:49.693152
+2025-06-11 08:01:17.860286
+2025-06-11 08:01:00.222290
+2025-06-11 08:01:19.930867
+2025-06-11 08:01:12.061874
+2025-06-11 08:01:32.883390
+2025-06-11 08:01:31.978212
+2025-06-11 08:01:58.330728
+2025-06-11 08:01:59.460144
+2025-06-11 08:02:44.437818
+2025-06-11 07:47:34.612808
+2025-06-11 07:47:00.364550
+2025-06-11 07:56:35.610225
+2025-06-11 07:47:48.465198
+2025-06-11 07:47:11.508697
+2025-06-11 07:56:39.535175
+2025-06-11 07:56:45.633320
+2025-06-11 07:47:15.781336
+2025-06-11 07:56:48.970360
+2025-06-11 08:04:29.384202
+2025-06-11 08:03:56.854619
+2025-06-11 07:48:01.321238
+2025-06-11 07:56:32.792274
+2025-06-11 08:03:59.218982
+2025-06-11 07:49:08.214910
+2025-06-11 08:04:47.127202
+2025-06-11 08:04:10.238720
+2025-06-11 07:56:42.691268
+2025-06-11 08:04:09.657144
+2025-06-11 07:56:38.610685
+2025-06-11 07:47:57.149814
+2025-06-11 08:04:13.727459
+2025-06-11 08:05:13.637435
+2025-06-11 07:58:03.247565
+2025-06-11 07:48:45.490987
+2025-06-11 07:56:35.024251
+2025-06-11 07:49:01.763212
+2025-06-11 08:05:15.616840
+2025-06-11 07:57:51.905251
+2025-06-11 08:05:42.407225
+2025-06-11 07:57:54.105411
+2025-06-11 08:01:11.218253
+2025-06-11 07:58:01.124709
+2025-06-11 08:00:46.957522
+2025-06-11 07:57:55.856170
+2025-06-11 08:05:20.021311
+2025-06-11 08:05:42.187890
+2025-06-11 08:01:45.413318
+2025-06-11 08:05:59.845552
+2025-06-11 08:02:35.642343
+2025-06-11 08:05:24.546360
+2025-06-11 08:02:26.171398
+2025-06-11 07:58:03.515739
+2025-06-11 07:48:14.285183
+2025-06-11 08:06:09.759293
+2025-06-11 08:03:04.758196
+2025-06-11 07:48:58.689615
+2025-06-11 08:06:42.693735
+2025-06-11 08:02:36.699503
+2025-06-11 07:58:02.786225
+2025-06-11 07:49:48.401045
+2025-06-11 07:48:56.039789
+2025-06-11 07:58:03.244310
+2025-06-11 08:02:14.381998
+2025-06-11 08:02:47.298322
+2025-06-11 07:11:15.042218
+2025-06-11 07:11:18.879622
+2025-06-11 08:03:12.750318
+2025-06-11 08:02:31.360242
+2025-06-11 08:04:18.511232
+2025-06-11 07:11:36.334589
+2025-06-11 08:03:31.431611
+2025-06-11 08:03:53.876153
+2025-06-11 07:49:25.049183
+2025-06-11 07:11:03.177162
+2025-06-11 07:11:47.202368
+2025-06-11 07:11:03.454309
+2025-06-11 07:11:23.281301
+2025-06-11 07:11:14.878429
+2025-06-11 07:50:30.793923
+2025-06-11 07:11:52.225567
+2025-06-11 07:11:54.184244
+2025-06-11 08:04:57.696249
+2025-06-11 07:11:32.519995
+2025-06-11 08:04:15.799138
+2025-06-11 08:08:40.534236
+2025-06-11 07:11:34.483125
+2025-06-11 07:10:51.404216
+2025-06-11 07:11:32.917249
+2025-06-11 07:11:05.472351
+2025-06-11 08:10:26.136240
+2025-06-11 07:11:42.369443
+2025-06-11 08:09:28.457809
+2025-06-11 08:09:50.254218
+2025-06-11 08:09:33.769924
+2025-06-11 08:10:00.601638
+2025-06-11 08:10:57.066150
+2025-06-11 08:10:08.758186
+2025-06-11 08:10:28.279801
+2025-06-11 08:10:58.301305
+2025-06-11 08:10:18.649798
+2025-06-11 08:13:05.522199
+2025-06-11 08:10:45.907343
+2025-06-11 08:08:18.060688
+2025-06-11 08:10:51.327183
+2025-06-11 08:11:12.771578
+2025-06-11 08:08:22.657512
+2025-06-11 08:08:48.423601
+2025-06-11 08:10:59.758678
+2025-06-11 08:08:17.788245
+2025-06-11 08:11:29.084315
+2025-06-11 08:14:53.447219
+2025-06-11 08:08:38.038382
+2025-06-11 08:08:10.028246
+2025-06-11 08:09:00.412271
+2025-06-11 08:08:42.562201
+2025-06-11 08:09:18.637809
+2025-06-11 08:09:12.089701
+2025-06-11 08:12:47.473274
+2025-06-11 08:09:24.911315
+2025-06-11 08:09:30.546060
+2025-06-11 08:12:55.420660
+2025-06-11 08:10:29.435562
+2025-06-11 08:10:38.957256
+2025-06-11 08:10:08.824221
+2025-06-11 08:09:34.088279
+2025-06-11 08:17:31.407234
+2025-06-11 08:18:26.368327
+***********params************
+pool_size: 10
+num_meet: 4
+num_redun: 1
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[6, 0, 0, 0, 0, 0, 0, 0, 6, 0, 6, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 138, 6, 0, 0, 0, 0, 0, 2, 0, 0, 138, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0]
+accuracy: 0.89; coop_accuracy: 0.98; mean sensitivity: 0.19083333333333335; avg rank: 3.15; stdev rank: 19.31236650439298; total pools: 2046.71
+
+2025-06-11 08:15:55.802386
+2025-06-11 08:16:59.489125
+2025-06-11 08:16:46.465258
+2025-06-11 08:16:37.450784
+2025-06-11 08:16:18.601147
+2025-06-11 08:16:28.647836
+2025-06-11 08:17:28.354337
+2025-06-11 08:16:39.031203
+2025-06-11 08:17:06.529542
+2025-06-11 08:17:32.904253
+2025-06-11 08:18:01.924073
+2025-06-11 08:21:14.008250
+***********params************
+pool_size: 10
+num_meet: 4
+num_redun: 1
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.99; avg rank: 0.0; stdev rank: 0.0; total pools: 3137.47
+
+2025-06-11 08:18:22.762030
+2025-06-11 08:18:13.832660
+2025-06-11 08:17:43.932236
+2025-06-11 07:48:40.398194
+2025-06-11 08:07:26.546158
+2025-06-11 08:19:57.376210
+2025-06-11 08:08:47.090372
+2025-06-11 08:20:26.169164
+2025-06-11 08:08:20.892008
+2025-06-11 07:48:06.204087
+2025-06-11 07:48:45.816303
+2025-06-11 07:50:25.515299
+2025-06-11 07:48:46.566602
+2025-06-11 08:08:37.731215
+2025-06-11 07:47:47.089142
+2025-06-11 08:08:53.136310
+2025-06-11 08:18:05.562821
+2025-06-11 08:10:23.643303
+2025-06-11 08:09:05.391363
+2025-06-11 08:10:36.807589
+2025-06-11 08:19:02.580746
+2025-06-11 08:08:12.360754
+2025-06-11 07:49:16.153690
+2025-06-11 08:17:37.407554
+2025-06-11 08:08:22.071719
+2025-06-11 08:19:00.617782
+2025-06-11 08:08:00.356871
+2025-06-11 08:18:07.372269
+2025-06-11 07:50:21.402066
+2025-06-11 07:50:04.010274
+2025-06-11 07:49:30.063452
+2025-06-11 08:09:19.079427
+2025-06-11 07:49:12.928474
+2025-06-11 08:10:19.226870
+2025-06-11 08:18:50.688581
+2025-06-11 08:18:21.376798
+2025-06-11 07:48:25.315942
+2025-06-11 07:50:43.222212
+2025-06-11 08:23:11.238252
+2025-06-11 08:22:57.023323
+2025-06-11 08:19:34.742338
+2025-06-11 08:22:45.221334
+2025-06-11 08:19:33.893876
+2025-06-11 07:50:37.410146
+2025-06-11 08:18:34.629562
+2025-06-11 08:23:05.455191
+2025-06-11 08:10:31.130209
+2025-06-11 07:49:43.428186
+2025-06-11 08:11:31.707732
+2025-06-11 08:20:58.111858
+2025-06-11 08:19:57.848244
+2025-06-11 08:23:35.940272
+2025-06-11 08:23:59.597129
+2025-06-11 08:23:05.923227
+2025-06-11 08:23:47.890787
+2025-06-11 08:24:42.394238
+2025-06-11 08:20:43.477157
+2025-06-11 08:20:17.606574
+2025-06-11 07:50:20.752285
+2025-06-11 08:21:12.059273
+2025-06-11 08:23:41.066203
+2025-06-11 08:24:32.453134
+2025-06-11 08:24:58.339673
+2025-06-11 08:25:19.776347
+2025-06-11 08:20:41.882567
+2025-06-11 08:25:03.350331
+2025-06-11 08:12:28.871048
+2025-06-11 08:26:28.108212
+2025-06-11 08:26:23.321650
+2025-06-11 08:29:18.420368
+2025-06-11 08:29:24.443832
+2025-06-11 08:29:37.389159
+2025-06-11 08:29:21.613217
+2025-06-11 08:30:27.526655
+2025-06-11 08:31:06.345449
+2025-06-11 08:30:37.422437
+2025-06-11 08:30:21.749448
+2025-06-11 08:30:26.542323
+2025-06-11 08:28:28.722542
+2025-06-11 08:30:40.671451
+2025-06-11 08:28:24.219320
+2025-06-11 08:28:13.536256
+2025-06-11 08:30:59.754815
+2025-06-11 08:27:45.848057
+2025-06-11 08:28:55.420203
+2025-06-11 08:29:27.050189
+2025-06-11 08:30:10.760476
+2025-06-11 08:28:56.925231
+2025-06-11 08:33:38.730491
+2025-06-11 08:31:34.516273
+2025-06-11 08:29:24.777520
+2025-06-11 08:32:13.110170
+2025-06-11 08:30:44.265814
+2025-06-11 08:28:06.428952
+2025-06-11 08:29:35.269558
+2025-06-11 08:31:33.378336
+2025-06-11 08:33:01.734222
+2025-06-11 08:30:44.105254
+2025-06-11 08:30:18.549380
+2025-06-11 08:30:51.408212
+2025-06-11 08:35:48.897329
+2025-06-11 08:35:53.834329
+2025-06-11 08:31:36.573277
+2025-06-11 08:35:25.020885
+2025-06-11 08:35:39.503158
+2025-06-11 08:37:02.716303
+2025-06-11 08:36:54.711211
+2025-06-11 08:37:03.646249
+2025-06-11 08:37:13.118479
+2025-06-11 08:37:07.866982
+2025-06-11 08:26:43.649226
+2025-06-11 08:37:55.848251
+2025-06-11 08:38:05.815204
+2025-06-11 08:26:26.519937
+2025-06-11 08:39:16.816294
+2025-06-11 08:39:18.528233
+2025-06-11 08:26:26.395278
+2025-06-11 08:27:43.054759
+2025-06-11 08:39:49.216192
+2025-06-11 08:27:44.942814
+2025-06-11 08:39:26.926288
+2025-06-11 08:28:20.446454
+2025-06-11 08:28:09.817412
+2025-06-11 08:27:49.438208
+2025-06-11 08:27:59.828059
+2025-06-11 08:29:42.627561
+2025-06-11 08:28:50.304735
+2025-06-11 08:37:15.709270
+2025-06-11 08:28:09.887214
+2025-06-11 08:39:55.627280
+2025-06-11 08:28:39.355268
+2025-06-11 08:37:57.419234
+2025-06-11 08:28:30.108353
+2025-06-11 08:38:14.061279
+2025-06-11 08:41:43.423537
+2025-06-11 08:30:05.324110
+2025-06-11 08:39:43.823209
+2025-06-11 08:39:05.916196
+2025-06-11 08:39:47.518902
+2025-06-11 08:38:00.882999
+2025-06-11 08:42:24.309256
+2025-06-11 08:38:32.368375
+2025-06-11 08:39:41.114481
+2025-06-11 08:39:26.104265
+2025-06-11 08:39:02.611185
+2025-06-11 08:38:45.521225
+2025-06-11 08:42:36.377883
+2025-06-11 08:42:21.982338
+2025-06-11 08:43:54.304238
+2025-06-11 08:43:14.038205
+2025-06-11 08:44:07.871310
+2025-06-11 08:40:54.357359
+2025-06-11 08:43:50.133331
+2025-06-11 08:44:13.380299
+2025-06-11 08:44:38.674870
+2025-06-11 08:40:31.201658
+2025-06-11 08:40:49.332273
+2025-06-11 08:32:30.046181
+2025-06-11 08:45:31.192695
+2025-06-11 08:46:18.329289
+2025-06-11 08:45:36.292166
+2025-06-11 08:42:23.591193
+2025-06-11 08:46:07.729265
+2025-06-11 08:47:21.875538
+2025-06-11 08:45:38.936336
+2025-06-11 08:49:32.758111
+2025-06-11 08:48:26.313339
+2025-06-11 08:47:10.369818
+2025-06-11 08:49:56.414141
+2025-06-11 08:49:14.331164
+2025-06-11 08:50:28.071134
+2025-06-11 08:49:54.211146
+2025-06-11 08:49:55.854169
+2025-06-11 08:47:36.224246
+2025-06-11 08:50:19.162150
+2025-06-11 08:50:37.253109
+2025-06-11 08:49:19.094556
+2025-06-11 08:49:27.712107
+2025-06-11 08:49:03.110839
+2025-06-11 08:51:36.511132
+2025-06-11 08:51:42.631120
+2025-06-11 08:51:21.855120
+2025-06-11 08:48:55.302273
+2025-06-11 08:49:23.168779
+2025-06-11 08:45:40.858925
+2025-06-11 08:49:26.684125
+2025-06-11 08:49:11.078618
+2025-06-11 08:52:04.369121
+2025-06-11 08:51:56.975107
+2025-06-11 08:49:23.319130
+2025-06-11 08:51:45.239129
+2025-06-11 08:50:49.647120
+2025-06-11 08:48:19.849196
+2025-06-11 08:48:55.963504
+2025-06-11 08:49:24.581133
+2025-06-11 08:27:35.988962
+2025-06-11 08:50:13.621128
+2025-06-11 08:53:29.425130
+2025-06-11 08:50:37.342116
+2025-06-11 08:54:58.674124
+2025-06-11 08:55:32.342122
+2025-06-11 08:47:03.630281
+2025-06-11 08:54:45.257041
+2025-06-11 08:27:34.025325
+2025-06-11 08:55:03.012189
+2025-06-11 08:46:33.266211
+2025-06-11 08:45:32.548946
+2025-06-11 08:56:40.016150
+2025-06-11 08:53:46.144155
+2025-06-11 08:53:24.975116
+2025-06-11 08:54:34.295113
+2025-06-11 08:55:53.174125
+2025-06-11 08:56:51.656131
+2025-06-11 08:48:43.968267
+2025-06-11 08:27:34.047177
+2025-06-11 08:26:16.996110
+2025-06-11 08:55:10.908143
+2025-06-11 08:13:31.473705
+2025-06-11 08:27:41.685921
+2025-06-11 08:12:55.463175
+2025-06-11 08:46:28.193685
+2025-06-11 08:46:42.952156
+2025-06-11 08:46:05.961154
+2025-06-11 08:47:13.458254
+2025-06-11 08:57:23.566136
+2025-06-11 08:28:35.276833
+2025-06-11 08:47:40.005268
+2025-06-11 08:57:20.801133
+2025-06-11 08:56:53.037137
+2025-06-11 08:47:27.131368
+2025-06-11 08:56:15.053167
+2025-06-11 08:44:27.634259
+2025-06-11 08:28:19.092327
+2025-06-11 08:11:25.159970
+2025-06-11 08:45:54.318217
+2025-06-11 08:55:11.914129
+2025-06-11 08:27:37.454204
+2025-06-11 08:46:29.758362
+2025-06-11 08:12:14.276828
+2025-06-11 08:46:55.432280
+2025-06-11 08:28:34.660147
+2025-06-11 08:12:04.621901
+2025-06-11 08:28:36.509171
+2025-06-11 08:30:45.030898
+2025-06-11 08:58:45.270135
+2025-06-11 08:29:44.443117
+2025-06-11 08:56:01.860143
+2025-06-11 08:29:34.714221
+2025-06-11 08:10:55.052142
+2025-06-11 08:54:16.749122
+2025-06-11 08:28:38.678250
+2025-06-11 08:56:37.710177
+2025-06-11 08:56:56.119126
+2025-06-11 08:12:27.666461
+2025-06-11 08:59:25.276140
+2025-06-11 08:57:14.613120
+2025-06-11 08:29:16.241204
+2025-06-11 08:56:54.931116
+2025-06-11 08:58:40.342125
+2025-06-11 08:12:39.818255
+2025-06-11 08:14:42.912379
+2025-06-11 08:29:09.104666
+2025-06-11 08:58:23.968132
+2025-06-11 08:58:12.301122
+2025-06-11 08:12:17.098272
+2025-06-11 08:10:57.245006
+2025-06-11 08:57:57.753116
+2025-06-11 08:13:37.331218
+2025-06-11 08:57:46.188108
+2025-06-11 08:13:46.931217
+2025-06-11 08:58:00.401137
+2025-06-11 08:11:52.238852
+2025-06-11 08:57:33.959147
+2025-06-11 08:51:12.351107
+2025-06-11 08:58:53.499123
+2025-06-11 09:01:08.405136
+2025-06-11 08:15:18.227180
+2025-06-11 08:57:10.051140
+2025-06-11 08:12:32.758004
+2025-06-11 09:03:13.685109
+2025-06-11 09:04:06.434122
+2025-06-11 09:02:51.253127
+2025-06-11 09:03:31.552134
+2025-06-11 08:57:06.162202
+2025-06-11 09:03:53.457132
+2025-06-11 09:04:32.749836
+2025-06-11 09:03:45.807124
+2025-06-11 09:03:26.342135
+2025-06-11 09:05:08.585745
+2025-06-11 09:00:03.257114
+2025-06-11 09:04:32.197735
+2025-06-11 09:05:06.625103
+2025-06-11 09:04:20.332100
+2025-06-11 09:05:27.554146
+2025-06-11 09:05:03.759120
+2025-06-11 09:05:18.578106
+2025-06-11 09:05:24.248129
+2025-06-11 09:06:01.853111
+2025-06-11 09:08:38.245125
+2025-06-11 09:07:24.406129
+2025-06-11 09:00:52.286122
+2025-06-11 09:05:50.340121
+2025-06-11 09:00:25.478109
+2025-06-11 09:02:23.172110
+2025-06-11 09:02:25.949121
+2025-06-11 09:01:24.686124
+2025-06-11 09:02:35.607117
+2025-06-11 09:02:22.900117
+2025-06-11 09:02:51.215141
+2025-06-11 09:02:43.894122
+2025-06-11 09:02:18.183622
+2025-06-11 09:03:03.449127
+2025-06-11 09:09:09.898164
+2025-06-11 09:02:46.000117
+2025-06-11 09:02:56.680140
+2025-06-11 09:09:22.512118
+2025-06-11 09:12:18.905111
+***********params************
+pool_size: 10
+num_meet: 4
+num_redun: 2
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 1.0; avg rank: 0.0; stdev rank: 0.0; total pools: 5155.1
+
+2025-06-11 09:10:28.748147
+2025-06-11 09:11:18.930133
+2025-06-11 09:10:10.206702
+2025-06-11 09:10:54.768133
+2025-06-11 09:12:26.221116
+***********params************
+pool_size: 10
+num_meet: 4
+num_redun: 2
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 0.99; coop_accuracy: 1.0; mean sensitivity: 0.20000000000000004; avg rank: 0.03; stdev rank: 0.298496231131986; total pools: 4019.26
+
+2025-06-11 09:10:05.064202
+2025-06-11 09:10:21.577127
+2025-06-11 09:10:19.589122
+2025-06-11 09:10:44.212138
+2025-06-11 09:05:41.742109
+2025-06-11 09:11:43.171146
+2025-06-11 09:12:00.188435
+2025-06-11 09:11:07.487140
+2025-06-11 09:12:05.486166
+2025-06-11 09:11:39.067132
+2025-06-11 09:13:29.643796
+2025-06-11 09:00:14.772141
+2025-06-11 09:09:49.712116
+2025-06-11 09:16:02.211124
+2025-06-11 09:03:05.276126
+2025-06-11 09:15:27.353126
+2025-06-11 09:16:44.344114
+2025-06-11 08:58:38.313116
+2025-06-11 09:17:35.666131
+2025-06-11 09:15:30.347243
+2025-06-11 09:16:56.484106
+2025-06-11 09:16:50.466133
+2025-06-11 09:10:36.152114
+2025-06-11 09:14:17.379134
+2025-06-11 09:16:51.286154
+2025-06-11 09:17:04.899123
+2025-06-11 09:03:08.149114
+2025-06-11 09:17:04.034114
+2025-06-11 09:02:52.971114
+2025-06-11 09:18:22.731122
+2025-06-11 09:13:40.071119
+2025-06-11 09:01:25.466114
+2025-06-11 09:01:26.596118
+2025-06-11 09:18:45.196116
+2025-06-11 09:17:05.628122
+2025-06-11 09:19:13.474116
+2025-06-11 09:01:53.453150
+2025-06-11 09:13:43.893122
+2025-06-11 09:15:23.801135
+2025-06-11 09:13:09.603133
+2025-06-11 09:18:53.307120
+2025-06-11 09:02:33.126131
+2025-06-11 09:19:52.527123
+2025-06-11 09:15:08.027113
+2025-06-11 09:14:40.542126
+2025-06-11 09:18:43.279129
+2025-06-11 09:15:01.927110
+2025-06-11 09:14:21.367162
+2025-06-11 09:14:34.390124
+2025-06-11 09:14:46.020112
+2025-06-11 09:18:17.166143
+2025-06-11 09:22:08.824188
+2025-06-11 09:02:51.426118
+2025-06-11 09:03:21.793113
+2025-06-11 09:03:08.284119
+2025-06-11 09:03:38.615129
+2025-06-11 09:23:22.016122
+2025-06-11 09:22:45.014125
+2025-06-11 09:03:29.286127
+2025-06-11 09:15:32.760133
+2025-06-11 09:23:31.666129
+2025-06-11 09:23:12.824115
+2025-06-11 09:23:34.512007
+2025-06-11 09:04:28.129124
+2025-06-11 09:25:06.630116
+2025-06-11 09:24:22.684105
+2025-06-11 09:23:30.331139
+2025-06-11 09:23:44.848115
+2025-06-11 09:24:45.873120
+2025-06-11 09:21:48.620392
+2025-06-11 09:04:41.478147
+2025-06-11 09:25:39.704123
+2025-06-11 09:25:24.462107
+2025-06-11 09:28:05.778119
+2025-06-11 09:26:49.843125
+2025-06-11 09:25:09.197128
+2025-06-11 09:26:35.522126
+2025-06-11 09:03:55.481112
+2025-06-11 09:23:37.428165
+2025-06-11 09:29:36.434160
+2025-06-11 09:05:24.419092
+2025-06-11 09:29:36.105234
+2025-06-11 09:31:11.297127
+2025-06-11 09:23:34.503177
+2025-06-11 09:30:06.468130
+2025-06-11 09:30:03.626128
+2025-06-11 09:02:59.285109
+2025-06-11 09:01:53.839112
+2025-06-11 09:29:55.020098
+2025-06-11 09:23:36.643142
+2025-06-11 09:30:19.979117
+2025-06-11 09:26:56.882127
+2025-06-11 09:04:37.874109
+2025-06-11 09:30:53.839131
+2025-06-11 09:30:45.380123
+2025-06-11 09:03:30.608117
+2025-06-11 09:04:43.124134
+2025-06-11 09:26:39.637149
+2025-06-11 09:25:32.702166
+2025-06-11 09:02:04.124128
+2025-06-11 09:27:05.528113
+2025-06-11 09:32:44.223116
+2025-06-11 09:05:08.371345
+2025-06-11 09:31:16.038104
+2025-06-11 09:25:00.567169
+2025-06-11 09:33:03.525112
+2025-06-11 09:25:34.548119
+2025-06-11 09:03:08.160123
+2025-06-11 09:27:07.089153
+2025-06-11 09:25:40.348147
+2025-06-11 09:33:18.396138
+2025-06-11 09:33:34.427116
+2025-06-11 09:05:57.053111
+2025-06-11 09:26:46.863105
+2025-06-11 09:27:23.757123
+2025-06-11 09:33:04.123125
+2025-06-11 09:33:09.523120
+2025-06-11 09:27:29.637128
+2025-06-11 09:35:28.783120
+2025-06-11 09:05:28.242126
+2025-06-11 09:06:36.079117
+2025-06-11 09:05:07.838892
+2025-06-11 09:21:09.494114
+2025-06-11 09:02:49.095092
+2025-06-11 09:05:18.074126
+2025-06-11 09:29:44.342103
+2025-06-11 09:32:16.281132
+2025-06-11 09:23:21.177111
+2025-06-11 09:35:23.939166
+2025-06-11 09:25:26.712132
+2025-06-11 09:37:13.001119
+2025-06-11 09:37:37.098299
+2025-06-11 09:37:30.407116
+2025-06-11 09:24:35.693126
+2025-06-11 09:22:39.479116
+2025-06-11 09:38:15.811113
+2025-06-11 09:37:18.704102
+2025-06-11 09:28:21.986125
+2025-06-11 09:25:02.861143
+2025-06-11 09:39:42.048138
+2025-06-11 09:24:19.635159
+2025-06-11 09:38:30.349121
+2025-06-11 09:40:05.686128
+2025-06-11 09:28:31.129129
+2025-06-11 09:32:32.230966
+2025-06-11 09:25:04.919130
+2025-06-11 09:39:38.510123
+2025-06-11 09:40:03.629122
+2025-06-11 09:36:33.211096
+2025-06-11 09:38:04.935133
+2025-06-11 09:29:39.702098
+2025-06-11 09:39:40.692108
+2025-06-11 09:38:27.934150
+2025-06-11 09:30:14.599743
+2025-06-11 09:37:35.545478
+2025-06-11 09:26:11.435510
+2025-06-11 09:29:13.926120
+2025-06-11 09:41:49.691119
+2025-06-11 09:29:17.068184
+2025-06-11 09:44:49.883124
+2025-06-11 09:46:30.910123
+2025-06-11 09:45:23.209099
+2025-06-11 09:46:09.547133
+2025-06-11 09:41:57.588117
+2025-06-11 09:43:47.515120
+2025-06-11 09:45:03.404118
+2025-06-11 09:47:09.272122
+2025-06-11 09:48:10.420105
+2025-06-11 09:52:04.872113
+***********params************
+pool_size: 10
+num_meet: 4
+num_redun: 3
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 0.99; coop_accuracy: 1.0; mean sensitivity: 0.205; avg rank: 0.03; stdev rank: 0.2984962311319859; total pools: 5990.56
+
+2025-06-11 09:48:18.082118
+2025-06-11 09:45:28.252124
+2025-06-11 09:45:06.595117
+2025-06-11 09:51:27.794172
+2025-06-11 09:37:29.973095
+2025-06-11 09:48:53.411495
+2025-06-11 09:49:23.272126
+2025-06-11 09:46:26.507110
+2025-06-11 09:51:47.348119
+2025-06-11 09:45:35.763096
+2025-06-11 09:33:40.633126
+2025-06-11 09:37:19.681260
+2025-06-11 09:52:50.318134
+***********params************
+pool_size: 10
+num_meet: 4
+num_redun: 3
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 1.0; avg rank: 0.0; stdev rank: 0.0; total pools: 7135.24
+
+2025-06-11 09:45:23.058136
+2025-06-11 09:35:34.272093
+2025-06-11 09:48:26.520112
+2025-06-11 09:44:08.137125
+2025-06-11 09:48:48.583118
+2025-06-11 09:36:47.407109
+2025-06-11 09:53:24.081105
+2025-06-11 09:47:00.399114
+2025-06-11 09:39:29.750199
+2025-06-11 09:53:25.449124
+2025-06-11 09:45:41.620115
+2025-06-11 09:46:14.834122
+2025-06-11 09:37:53.772099
+2025-06-11 09:52:27.173121
+2025-06-11 09:46:54.851120
+2025-06-11 09:43:08.521123
+2025-06-11 09:56:17.845116
+2025-06-11 09:36:38.895122
+2025-06-11 09:38:20.667356
+2025-06-11 09:49:28.624090
+2025-06-11 09:54:48.721132
+2025-06-11 09:40:59.458129
+2025-06-11 09:48:56.888117
+2025-06-11 09:37:29.145094
+2025-06-11 09:57:56.525109
+2025-06-11 09:45:23.074094
+2025-06-11 09:58:19.188120
+2025-06-11 09:41:04.251101
+2025-06-11 09:46:41.018120
+2025-06-11 09:57:24.860109
+2025-06-11 09:59:00.957522
+2025-06-11 09:51:39.306123
+2025-06-11 09:57:38.516112
+2025-06-11 09:37:35.979110
+2025-06-11 09:40:26.523116
+2025-06-11 09:58:38.435702
+2025-06-11 09:53:49.537110
+2025-06-11 09:59:04.374134
+2025-06-11 09:40:22.937140
+2025-06-11 09:50:07.178126
+2025-06-11 09:58:43.795110
+2025-06-11 09:48:28.158134
+2025-06-11 10:00:05.663135
+2025-06-11 10:00:43.431126
+2025-06-11 10:01:38.320115
+2025-06-11 09:40:17.349111
+2025-06-11 09:41:20.370109
+2025-06-11 10:06:52.860793
+2025-06-11 09:59:09.625121
+2025-06-11 09:59:39.365115
+2025-06-11 10:00:12.989124
+2025-06-11 10:01:48.371108
+2025-06-11 10:02:26.417119
+2025-06-11 10:09:25.499541
+2025-06-11 10:02:25.668147
+2025-06-11 10:02:57.502123
+2025-06-11 10:04:12.459986
+2025-06-11 10:04:00.793136
+2025-06-11 10:02:56.713123
+2025-06-11 10:04:18.707116
+2025-06-11 10:05:02.168101
+2025-06-11 10:05:48.444116
+2025-06-11 10:06:18.342110
+2025-06-11 09:59:28.728100
+2025-06-11 10:13:30.875508
+2025-06-11 09:59:28.717141
+2025-06-11 09:58:31.822123
+2025-06-11 10:07:30.175103
+2025-06-11 10:07:42.587136
+2025-06-11 10:00:14.427116
+2025-06-11 10:01:25.043113
+2025-06-11 10:16:05.720657
+2025-06-11 10:01:55.336122
+2025-06-11 10:02:35.764121
+2025-06-11 10:03:34.055109
+2025-06-11 10:04:24.114104
+2025-06-11 10:03:39.151123
+2025-06-11 10:05:30.117111
+2025-06-11 10:20:11.840956
+***********params************
+pool_size: 6
+num_meet: 4
+num_redun: 1
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.4941666666666667; avg rank: 0.0; stdev rank: 0.0; total pools: 19745.5
+
+2025-06-11 10:06:42.434275
+2025-06-11 10:13:37.011940
+2025-06-11 10:06:25.053119
+2025-06-11 10:07:10.717358
+2025-06-11 10:14:09.575256
+2025-06-11 10:14:08.457620
+2025-06-11 10:15:31.396767
+2025-06-11 10:22:48.495093
+***********params************
+pool_size: 6
+num_meet: 4
+num_redun: 1
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.9333333333333335; avg rank: 0.0; stdev rank: 0.0; total pools: 20419.0
+
+2025-06-11 10:16:01.512578
+2025-06-11 10:09:37.660237
+2025-06-11 10:09:32.769316
+2025-06-11 10:16:34.498257
+2025-06-11 10:16:54.823087
+2025-06-11 10:17:51.754550
+2025-06-11 10:17:48.721064
+2025-06-11 10:17:55.340199
+2025-06-11 10:18:28.765448
+2025-06-11 10:18:35.693239
+2025-06-11 10:19:15.941837
+2025-06-11 10:19:40.053538
+2025-06-11 10:20:47.286083
+2025-06-11 10:21:07.029225
+2025-06-11 10:19:58.095720
+2025-06-11 10:20:25.304999
+2025-06-11 10:27:03.562080
+2025-06-11 10:20:43.629567
+2025-06-11 10:27:35.034955
+2025-06-11 10:27:38.834336
+2025-06-11 10:21:37.286884
+2025-06-11 10:29:03.934686
+2025-06-11 10:22:42.178529
+2025-06-11 10:29:36.480251
+2025-06-11 10:23:05.895787
+2025-06-11 10:30:09.753440
+2025-06-11 10:30:25.851371
+2025-06-11 10:31:19.094929
+2025-06-11 10:24:27.659391
+2025-06-11 10:31:21.430176
+2025-06-11 10:24:48.374784
+2025-06-11 10:31:35.159977
+2025-06-11 10:25:00.615046
+2025-06-11 10:32:11.346433
+2025-06-11 10:32:16.310878
+2025-06-11 10:25:29.690324
+2025-06-11 10:26:05.513346
+2025-06-11 10:32:54.519820
+2025-06-11 10:33:20.268821
+2025-06-11 10:26:59.724532
+2025-06-11 10:27:11.698619
+2025-06-11 10:27:22.808566
+2025-06-11 10:34:34.827802
+2025-06-11 10:34:58.582768
+2025-06-11 10:29:37.584261
+2025-06-11 10:29:43.689088
+2025-06-11 10:41:15.380345
+2025-06-11 10:41:48.228097
+2025-06-11 10:42:00.519139
+2025-06-11 10:43:16.275883
+2025-06-11 10:43:53.957068
+2025-06-11 10:44:41.168749
+2025-06-11 10:44:32.842896
+2025-06-11 10:45:27.404768
+2025-06-11 10:45:37.416587
+2025-06-11 10:45:53.515248
+2025-06-11 10:46:27.298811
+2025-06-11 10:46:33.707834
+2025-06-11 10:47:19.176828
+2025-06-11 10:47:38.076862
+2025-06-11 10:40:39.976531
+2025-06-11 10:41:12.097693
+2025-06-11 10:41:35.318974
+2025-06-11 10:48:55.810691
+2025-06-11 10:49:12.807065
+2025-06-11 10:42:20.618102
+2025-06-11 10:43:38.708857
+2025-06-11 10:43:59.975867
+2025-06-11 10:45:33.660701
+2025-06-11 10:45:55.650950
+2025-06-11 10:45:52.292877
+2025-06-11 10:46:34.733695
+2025-06-11 10:47:11.339363
+2025-06-11 10:48:14.956231
+2025-06-11 10:55:30.155048
+2025-06-11 10:48:36.818961
+2025-06-11 10:56:03.910041
+2025-06-11 10:48:50.797727
+2025-06-11 10:56:18.370907
+2025-06-11 10:57:27.226774
+2025-06-11 10:58:05.821433
+2025-06-11 10:51:02.204109
+2025-06-11 10:51:05.666674
+2025-06-11 10:58:56.957410
+2025-06-11 10:58:57.268081
+2025-06-11 10:59:45.774872
+2025-06-11 10:59:53.478670
+2025-06-11 11:00:16.055127
+2025-06-11 11:00:36.624289
+2025-06-11 11:00:45.038834
+2025-06-11 11:01:34.655529
+2025-06-11 11:01:50.693541
+2025-06-11 11:03:07.707888
+2025-06-11 11:03:23.541121
+2025-06-11 11:01:56.102171
+2025-06-11 11:10:01.687917
+2025-06-11 11:02:41.242527
+2025-06-11 11:02:59.388134
+2025-06-11 11:10:37.238768
+2025-06-11 11:03:49.469193
+2025-06-11 11:11:02.065751
+2025-06-11 11:12:11.829730
+2025-06-11 11:05:00.673382
+2025-06-11 11:12:43.545552
+2025-06-11 11:05:22.018403
+2025-06-11 11:13:46.069205
+2025-06-11 11:13:54.494164
+2025-06-11 11:14:36.477917
+2025-06-11 11:14:48.050885
+2025-06-11 11:07:04.763779
+2025-06-11 11:07:20.609242
+2025-06-11 11:07:23.107919
+2025-06-11 11:15:14.871086
+2025-06-11 11:08:03.243035
+2025-06-11 11:15:37.476860
+2025-06-11 11:15:45.089107
+2025-06-11 11:08:43.939198
+2025-06-11 11:16:38.109627
+2025-06-11 11:16:59.075675
+2025-06-11 11:09:48.885585
+2025-06-11 11:10:20.914692
+2025-06-11 11:18:10.499268
+2025-06-11 11:10:39.479276
+2025-06-11 11:18:35.010079
+2025-06-11 11:12:51.561891
+2025-06-11 11:12:55.784592
+2025-06-11 11:25:16.348356
+2025-06-11 11:25:54.495601
+2025-06-11 11:24:40.029078
+2025-06-11 11:25:25.173322
+2025-06-11 11:25:51.131870
+2025-06-11 11:26:29.520854
+2025-06-11 11:27:59.925039
+2025-06-11 11:28:23.545432
+2025-06-11 11:30:13.433724
+2025-06-11 11:30:12.860340
+2025-06-11 11:30:31.804943
+2025-06-11 11:30:56.592205
+2025-06-11 11:32:14.009283
+2025-06-11 11:45:09.680736
+2025-06-11 11:33:50.211082
+2025-06-11 11:46:10.723741
+2025-06-11 11:34:44.419992
+2025-06-11 11:35:12.655114
+2025-06-11 11:38:20.094778
+2025-06-11 11:38:18.301068
+2025-06-11 11:55:36.423956
+2025-06-11 12:07:12.926607
+2025-06-11 11:56:48.981933
+2025-06-11 12:08:15.237532
+2025-06-11 11:57:28.921847
+2025-06-11 11:58:24.534946
+2025-06-11 12:00:17.491475
+2025-06-11 12:00:56.187190
+2025-06-11 12:03:28.082975
+2025-06-11 12:03:39.132567
+2025-06-11 12:04:01.976974
+2025-06-11 12:04:28.217115
+2025-06-11 12:05:56.117359
+2025-06-11 12:07:26.021087
+2025-06-11 12:08:33.548822
+2025-06-11 12:08:53.019656
+2025-06-11 12:11:42.305083
+2025-06-11 12:11:49.702199
+2025-06-11 12:29:28.868749
+***********params************
+pool_size: 6
+num_meet: 4
+num_redun: 2
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.49916666666666665; avg rank: 0.0; stdev rank: 0.0; total pools: 39425.95
+
+2025-06-11 12:30:33.240296
+***********params************
+pool_size: 6
+num_meet: 4
+num_redun: 2
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.9275; avg rank: 0.0; stdev rank: 0.0; total pools: 40119.75
+
+2025-06-11 12:29:00.000707
+2025-06-11 12:30:15.287171
+2025-06-11 12:30:39.918868
+2025-06-11 12:31:43.195404
+2025-06-11 12:33:34.420544
+2025-06-11 12:34:22.174074
+2025-06-11 12:36:57.159110
+2025-06-11 12:37:12.407508
+2025-06-11 12:37:50.062940
+2025-06-11 12:38:09.920949
+2025-06-11 12:39:32.860457
+2025-06-11 12:40:49.563035
+2025-06-11 12:42:00.664852
+2025-06-11 12:42:19.730423
+2025-06-11 12:45:01.022540
+2025-06-11 12:45:13.920151
+2025-06-11 13:01:33.945086
+2025-06-11 13:02:53.168053
+2025-06-11 13:03:15.645017
+2025-06-11 13:04:18.370881
+2025-06-11 13:05:50.992968
+2025-06-11 13:06:38.977464
+2025-06-11 13:09:01.869189
+2025-06-11 13:09:22.189881
+2025-06-11 13:10:08.294354
+2025-06-11 13:10:20.814467
+2025-06-11 13:11:31.155471
+2025-06-11 13:12:31.807059
+2025-06-11 13:13:46.575703
+2025-06-11 13:14:12.944002
+2025-06-11 13:16:32.627255
+2025-06-11 13:16:44.937778
+2025-06-11 13:32:11.363122
+2025-06-11 13:33:36.825164
+2025-06-11 13:59:21.437537
+2025-06-11 14:00:36.947789
+2025-06-11 14:25:37.777420
+2025-06-11 14:26:49.292397
+2025-06-11 14:52:10.715773
+***********params************
+pool_size: 6
+num_meet: 4
+num_redun: 3
+frac_top: 1.0
+final_size: 2
+target_metric: output
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.5; avg rank: 0.0; stdev rank: 0.0; total pools: 59107.36
+
+2025-06-11 14:53:24.738751
+***********params************
+pool_size: 6
+num_meet: 4
+num_redun: 3
+frac_top: 1.0
+final_size: 2
+target_metric: coop
+tiebreak_round: True
+num_top: 55
+score_mode: avg
+Best ranks per rep:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+accuracy: 1.0; coop_accuracy: 1.0; mean sensitivity: 0.9216666666666667; avg rank: 0.0; stdev rank: 0.0; total pools: 59806.36
+
+
+--------------------------------------------
+Final analysis
+Highest accuracy: 1.0; mean sensitivity: 1.0; total pools: 5155.1; Params:
+{'pool_size': 6, 'num_meet': 4, 'num_redun': 2, 'frac_top': 1.0, 'final_size': 2, 'target_metric': 'coop', 'tiebreak_round': True, 'num_top': 55, 'score_mode': 'avg'}
