@@ -12,7 +12,6 @@ Use cases include:
 
 * Building ground‑truth datasets for hypothetical landscapes.  
 * Comparing PD algorithms across thousands of random landscapes.  
-* Generating error models for downstream statistical power analyses.
 
 ---
 
@@ -32,9 +31,10 @@ Use cases include:
 ## Installation
 
 ```bash
-git clone https://github.com/your-org/multicat.git
-cd multicat
-pip install -r requirements.txt      # Pure‑Python deps
+git clone https://github.com/msh-yi/multicat-data.git
+cd multicat-data
+conda env create -f environment.yml
+conda activate multicat
 ```
 
 > **Additional requirements**  
@@ -47,7 +47,7 @@ A minimal Conda recipe:
 ```bash
 conda create -n multicat python=3.10 copasi numba pandas pyyaml
 conda activate multicat
-pip install basico
+#pip install basico
 ```
 
 ---
@@ -169,12 +169,3 @@ batch_job/
 │   ├── 0001.out
 └── └── 0001.out.csv
 ```
-
-
-## FAQ
-
-**Q: Can I import my own landscape?**  
-Yes—set `simul: landscape_mode: file` and supply `landscape:` pointing to an existing `*_cat_rate.csv` prefix.
-
-**Q: Does Multicat support GPU acceleration?**  
-Not currently; Numba JIT covers the CPU hot‑spots. Pull requests welcome!

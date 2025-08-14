@@ -1,0 +1,54 @@
+name: multicat
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python
+  - python=3.9
+  
+  # Scientific computing
+  - numpy>=1.26.0
+  - pandas>=2.0.0
+  - scipy>=1.12.0
+  
+  # Visualization
+  - matplotlib>=3.8.0
+  - seaborn>=0.13.0
+  
+  # Machine learning
+  - scikit-learn>=1.4.0
+  
+  # High-performance computing  
+  - numba>=0.60.0
+  
+  # Data structures and utilities
+  - anytree>=2.8.0
+  - tqdm>=4.65.0
+  
+  # Statistics
+  - statsmodels>=0.14.0
+  
+  # Jupyter ecosystem (for development)
+  - jupyter
+  - ipywidgets
+  - ipykernel
+  
+  # Build tools
+  - pip
+  - setuptools
+  
+  # Packages only available via pip
+  - pip:
+    - deap>=1.4.0
+    - plotly>=5.24.0
+    - dash>=2.18.0
+    - flask>=3.0.0
+    - copasi-basico>=0.57
+    - rdkit>=2024.3.0
+    - requests>=2.31.0
+    - beautifulsoup4>=4.12.0
+    - pyyaml>=6.0.0
+    - openpyxl>=3.1.0
+    - multiprocess>=0.70.0
+    - tabulate>=0.9.0
+    - jupyter-dash>=0.4.0

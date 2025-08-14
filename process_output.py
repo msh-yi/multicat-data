@@ -155,7 +155,7 @@ def process_out(input_file: str, output_file: Optional[str] = None, out_csv: boo
                 by=[col for col, _ in sort_columns],
                 ascending=[asc for _, asc in sort_columns],
                 inplace=True
-            )
+            ) # type: ignore
         
         # Save to CSV if output file specified
         if output_file:
