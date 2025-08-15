@@ -1,5 +1,8 @@
 # Multicat
-*A package to generate catalytic cooperativity landscapes and benchmark pooling/deconvolution algorithms*
+
+This repository serves two purposes:
+1. Supporting data and code to generate figures for the publication "Accelerating the Discovery of Catalytic Cooperativity." These data and code are contained in the folders `manuscript_figures/`, `oxetane/`, `Pd_coupling`, and `simulation_testing/`.
+2. Code for *`multicat`, a package to generate catalytic cooperativity landscapes and benchmark pooling/deconvolution algorithms*. This package comprises all the python modules in the top-level directory. The remainder of this documentation is about **Multicat**.
 
 ---
 
@@ -11,7 +14,7 @@ While the codebase also contains `rec` (recommendation) and `proc` (processing) 
 Use cases include:
 
 * Building ground‑truth datasets for hypothetical landscapes.  
-* Comparing PD algorithms across thousands of random landscapes.  
+* Comparing PD algorithms across random landscapes.  
 
 ---
 
@@ -136,7 +139,7 @@ Generates one log per replicate (`out_seedXXXX.out`).
 python process_output.py out_seed*.txt -o results.csv
 ```
 
-The CSV contains accuracy, efficiency, and various other metrics for each (k,t,r) parameter set.
+The CSV contains sensitivity, efficiency, and various other metrics for each (k,t,r) parameter set.
 
 ### 5️⃣ Scale up with SLURM
 
