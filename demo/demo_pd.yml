@@ -1,0 +1,29 @@
+---
+## yml file with parameters for landscape generation and simulations of the pooling-deconvolution (PD) workflow
+rng:
+  seed: 379422
+# this seed is used for random shuffling before the initial pooling, and for landscape generation
+
+# Scenario 2: Run simulated PD, with landscapes already generated
+
+# Block 1: read a landscape when running simulated PD
+simul:
+  mode: 'dimer' # 
+  N: 20 # number of catalysts
+  mode: "dimer" # "dimer" mode is default
+  neg_strength: 100 # strength of binding of inhibitory pairs relative to positive coop pairs
+  landscape: '/home/msh_yi/research/multicat-data/demo/demo_ls_ls' # path to landscape files plus prefix. We expect two files: <landscape_name>_cat_rate.csv and <landscape_name>_coop_mat.csv
+  num_reps: 10 # number of repetitions to simulate each combination of PD parameters. Each rep will start from a random pooling initialization.
+
+# Block 2: list parameter values to be tested. PD will be simulated with all combinations of the parameter values ("grid search") 
+pooler: 'oneshot'
+oneshot: # important: specify all values as python-formatted lists, even single values
+  pool_size: [4, 5] # size of each pool in the covering, k
+  num_meet: [2, 3] # number of cats that are guaranteed to meet at least once, t
+  num_redun: [1, 2] # number of repeated coverings to construct, r
+  final_size: [2] # size of hypothesized cooperative set
+  target_metric: ['coop'] # metric to use to score each pair pre-verification: cooperativity or raw yield
+  tiebreak_round: [True]
+  num_top: [5] # number of top pools to consider for tie-break round, defaults to number of top ties if the given number is smaller
+  rxn_time: [20] # reaction time (arbitrary, e.g. hours) Used to deconvolute real yield data but all reactions are assumed to run for the same time.
+  score_mode: ['avg'] # if the baseline output (non-cooperative) is the sum of individual outputs, use 'add'. If average, use 'avg'. if it is the maximum of individual outputs, use 'max'
