@@ -151,34 +151,44 @@ def eval_yield(pool, noise=True):
     return k
 
 
-def score_coop(score_mode, pool, singles_ks):
+def score_coop(score_mode, pool, singles_ks, threshold=1):
     """
-    Calculate cooperativity score for a pool based on individual catalyst performances.
+    Cooperativity score with thresholding:
+      score = max(k_pool, t_scaled_numer) / max(baseline, t_scaled_denom) - 1
 
-    Args:
-        score_mode (str): 'sum', 'avg', or 'max' - how to compare against singles
-        pool (list): List representing a pool of catalysts
-        singles_ks (list): List of k values for individual catalysts
-
-    Returns:
-        float: Cooperativity score
+    Modes:
+      - 'max': baseline = max(single ks); floors use t
+      - 'avg': baseline = sum(single ks); numerator multiplied by len(pool) (→ compares to average);
+               floors use t * len(pool) on the sum baseline
+      - 'sum': baseline = sum(single ks); floors use t * len(pool)
     """
-    k_comp = 1e-10  # to avoid div by zero, since the singles k_s might be zero
-    singles_ks_this_pool = [singles_ks[cat] for cat in pool]
+    eps = 1e-12  # final safety to avoid div-by-zero in pathological cases
 
-    # Calculate baseline for comparison
-    if score_mode == "max":  # baseline is maximum of singles
-        k_comp += max(singles_ks_this_pool)
-    else:  # baseline is sum/average of singles
-        k_comp += sum(singles_ks_this_pool)
+    k_pool = float(pool.fitness.values[0])
+    singles_ks_this_pool = [float(singles_ks[cat]) for cat in pool]
+    n = len(pool)
 
-    # Calculate cooperativity score
-    if score_mode == "avg":  # scale up for comparison with k_comp
-        score = pool.fitness.values[0] * len(pool) / k_comp - 1
-    elif score_mode in ["sum", "max"]:
-        score = pool.fitness.values[0] / k_comp - 1
+    if score_mode == "max":
+        baseline = max(singles_ks_this_pool) if singles_ks_this_pool else 0.0
+        numer = max(k_pool, float(threshold))
+        denom = max(baseline, float(threshold), eps)
+        return numer / denom - 1.0
 
-    return score
+    elif score_mode == "avg":
+        # Keep your original structure (sum baseline, scale numerator by n)
+        baseline_sum = sum(singles_ks_this_pool)
+        numer = max(k_pool, float(threshold)) * n
+        denom = max(baseline_sum, float(threshold) * n, eps)
+        return numer / denom - 1.0
+
+    elif score_mode == "sum":
+        baseline_sum = sum(singles_ks_this_pool)
+        numer = max(k_pool, float(threshold))
+        denom = max(baseline_sum, float(threshold) * n, eps)
+        return numer / denom - 1.0
+
+    else:
+        raise ValueError("score_mode must be one of: 'sum', 'avg', 'max'")
 
 
 def init_covering(pool_class, num_cats, pool_size, num_meet, num_redun):
